@@ -2,8 +2,8 @@
   "name": "Recipes with Chat",
   "short_name": "Recipes with Chat",
   "description": "Your offline-friendly cooking recipe collection",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/Recipes-with-Chat/",
+  "scope": "/Recipes-with-Chat/",
   "display": "standalone",
   "background_color": "#101318",
   "theme_color": "#171b21",
@@ -21,6 +21,6 @@
       "purpose": "any maskable"
     }
   ],
-  "id": "./",
+  "id": "/Recipes-with-Chat/",
   "lang": "en-AU"
 }
