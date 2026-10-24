@@ -1,6 +1,6 @@
 const CACHE_PREFIX = 'recipes-with-chat-';
-const CACHE = CACHE_PREFIX + 'v1';
-const FILES = ['./', './index.html', './recipes.json', './fallow-chicken.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
+const CACHE = CACHE_PREFIX + 'v2';
+const FILES = ['./', './index.html', './recipes.json', './fallow-chicken.html', './manifest.webmanifest', './manifest.webmanifest?v=2', './icon-192.png', './icon-512.png'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(FILES)).then(() => self.skipWaiting()));
 });
