@@ -1,5 +1,5 @@
 const CACHE_PREFIX='recipes-with-chat-';
-const CACHE=CACHE_PREFIX+'collection-v5';
+const CACHE=CACHE_PREFIX+'collection-v6';
 const FILES=['./','./index.html','./recipe.html','./collection.js','./recipe.js','./recipe-store.js','./app.css','./recipes.json','./fallow-chicken.html','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(FILES)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith(CACHE_PREFIX)&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()));});

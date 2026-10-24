@@ -1,6 +1,6 @@
 # Recipes with Chat
 
-An installable recipe app with 34 shared recipes, ingredient search, offline cooking pages, checklists, timers and screen wake lock.
+An installable recipe app with 51 shared recipes, ingredient search, offline cooking pages, checklists, timers and screen wake lock.
 
 Main app: https://recipes-with-chat-jimmy.boonjabby.chatgpt.site/
 

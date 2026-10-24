@@ -14,7 +14,108 @@
     ],
     "emoji": "🍗",
     "source": "Original Home Kitchen PWA",
-    "notes": "Ingredient amounts are reconstructed home-kitchen estimates from the video transcript, not verified Fallow quantities."
+    "notes": "Ingredient amounts are reconstructed home-kitchen estimates from the video transcript, not verified Fallow quantities.",
+    "groups": [
+      {
+        "title": "Chicken & 24-hour brine",
+        "items": [
+          "1 kg boneless, skinless chicken thighs",
+          "300 mL cold water",
+          "12 g fine salt",
+          "80 g sriracha hot sauce"
+        ]
+      },
+      {
+        "title": "Signature dry dredge",
+        "items": [
+          "300 g plain flour",
+          "150 g potato starch (not potato flour)",
+          "10 g baking powder",
+          "5 g fine salt",
+          "5 g white pepper",
+          "4 g garlic powder",
+          "3 g black pepper",
+          "2 g cayenne pepper",
+          "3 g MSG (optional)"
+        ]
+      },
+      {
+        "title": "Wet dredge",
+        "items": [
+          "250 mL buttermilk",
+          "60 g cornflour (cornstarch)"
+        ]
+      },
+      {
+        "title": "Hot honey glaze",
+        "items": [
+          "250 g honey",
+          "30 mL rice vinegar",
+          "35 g sriracha",
+          "5 g chilli flakes",
+          "3 g Sichuan peppercorns, whole",
+          "2 g fennel seeds",
+          "2 small garlic cloves, finely grated",
+          "1 g fine salt",
+          "1 g MSG (optional)"
+        ]
+      },
+      {
+        "title": "Blue cheese ranch",
+        "items": [
+          "100 g blue cheese",
+          "100 mL buttermilk",
+          "120 g Japanese mayonnaise (Kewpie)",
+          "15 mL lemon juice",
+          "10 mL white wine vinegar",
+          "10 g honey",
+          "2 g onion powder",
+          "10 g fresh chives, finely chopped",
+          "Freshly ground black pepper, to taste"
+        ]
+      },
+      {
+        "title": "Frying & finishing",
+        "items": [
+          "2–3 L canola oil, depending on pot size",
+          "Flaky sea salt"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepare chicken · Day 1",
+        "text": "Cut thighs into approximately 50–70 g strips. Lightly score both sides with shallow cuts, without slicing through the meat. Mix water, salt and sriracha. Add chicken, cover and refrigerate for 24 hours at 5°C or colder."
+      },
+      {
+        "title": "Make hot honey",
+        "text": "Combine honey, rice vinegar, sriracha, chilli flakes, Sichuan peppercorns, fennel seeds, salt and optional MSG. Warm to a gentle simmer, grate in garlic, then simmer for 2–3 minutes. Cool, refrigerate overnight, and rewarm gently before serving."
+      },
+      {
+        "title": "Prepare dredges · Day 2",
+        "text": "Whisk all dry-dredge ingredients together. In another bowl, whisk buttermilk and cornflour until smooth."
+      },
+      {
+        "title": "Build first crust",
+        "text": "Move a few pieces of chicken and a little clinging marinade into a separate bowl. Add a handful of dry dredge and mix vigorously to create a sticky, uneven coating. Repeat with remaining chicken. Discard unused raw marinade."
+      },
+      {
+        "title": "Double dredge",
+        "text": "Put sticky chicken into dry dredge. Tumble and turn about 60 times to create rough clusters. Dip completely in buttermilk-cornflour wet dredge. Return to dry dredge and roll gently to coat. Tap and shake off excess flour, revealing the jagged crust. Fry promptly."
+      },
+      {
+        "title": "Fry the chicken",
+        "text": "Heat canola oil to 185–190°C in a heavy deep pot, filled no more than one-third. Fry in small batches (typically 3–5 pieces depending on pot size), leaving pieces undisturbed initially to set the crust. Turn when set. Cook until deeply golden, approximately 5–8 minutes depending on thickness, and verify at least 75°C in the thickest part. Drain on a wire rack."
+      },
+      {
+        "title": "Make blue cheese ranch",
+        "text": "Crumble blue cheese. Add buttermilk, Japanese mayonnaise, lemon juice, white wine vinegar, honey and onion powder. Mash gently, leaving some cheese chunks. Stir through chives and black pepper. Refrigerate until needed."
+      },
+      {
+        "title": "Glaze & serve",
+        "text": "Dip warm chicken briefly into gently warmed hot honey, let excess drip off, sprinkle with flaky sea salt, and serve immediately with blue cheese ranch."
+      }
+    ]
   },
   {
     "id": "satay-no-coconut",
@@ -55,7 +156,8 @@
           "1 tbsp soy sauce",
           "1 tbsp sweet chilli sauce",
           "1 tbsp honey or brown sugar",
-          "Juice of ½ lime"
+          "Juice of ½ lime",
+          "Optional: ½ tsp curry powder"
         ]
       }
     ],
@@ -78,7 +180,7 @@
       }
     ],
     "source": "Cooking chat · 21 June 2026",
-    "notes": "Your no-coconut-milk version. Sauce is separate from raw-chicken marinade.",
+    "notes": "Your no-coconut-milk version. Sauce is separate from raw-chicken marinade. Export follow-up recovered optional ½ tsp curry powder in the sauce; overnight marinating is also an option.",
     "timer": 600
   },
   {
@@ -174,7 +276,8 @@
           "1 tsp paprika",
           "1 tbsp Worcestershire sauce",
           "Salt and pepper, to taste",
-          "Optional: 100–150 mL soy milk"
+          "Optional: 100–150 mL soy milk",
+          "Optional: 1 tsp sugar"
         ]
       }
     ],
@@ -201,7 +304,7 @@
       }
     ],
     "source": "Cooking chat · 2 October 2026",
-    "notes": "Recovered 1 kg batch using one 400 g tin of tomatoes. This is a mince sauce, not a meatball mixture.",
+    "notes": "Recovered 1 kg batch using one 400 g tin of tomatoes. This is a mince sauce, not a meatball mixture. Export follow-up recovered optional 1 tsp sugar; add only if needed when tasting. The saved recipe date and visible request date differ.",
     "timer": 2100
   },
   {
@@ -674,6 +777,486 @@
     "timer": 600
   },
   {
+    "title": "Butter Chicken Breast with Jasmine Rice",
+    "category": "Dinner",
+    "emoji": "🍛",
+    "subtitle": "Quick breast version with a different marinade and sauce",
+    "time": "20–30 min marinade + cooking; requested total under 1½ hours",
+    "servings": "600 g chicken batch",
+    "groups": [
+      {
+        "title": "Chicken marinade",
+        "items": [
+          "600 g chicken breast",
+          "½ cup yoghurt",
+          "1 tbsp lemon juice or vinegar",
+          "2 tsp garam masala",
+          "1 tsp cumin",
+          "1 tsp ground coriander",
+          "1 tsp paprika",
+          "½–1 tsp chilli",
+          "1 tsp salt",
+          "1 tbsp oil"
+        ]
+      },
+      {
+        "title": "Sauce",
+        "items": [
+          "50 g butter",
+          "1 tbsp oil",
+          "3 garlic cloves",
+          "1 tbsp ginger",
+          "1½ tsp cumin",
+          "1½ tsp ground coriander",
+          "1 tsp paprika",
+          "1 tsp garam masala",
+          "1 tsp sugar",
+          "1 cup passata",
+          "½ cup cream",
+          "Salt, quantity not recovered",
+          "Optional: fenugreek, quantity not recovered",
+          "Optional: coriander, quantity not recovered"
+        ]
+      },
+      {
+        "title": "Jasmine rice",
+        "items": [
+          "1½ cups jasmine rice",
+          "2¼ cups water",
+          "½ tsp salt",
+          "1 tsp butter"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Marinate",
+        "text": "Cut chicken into pieces and coat with the marinade ingredients. Refrigerate for 20–30 minutes."
+      },
+      {
+        "title": "Brown chicken",
+        "text": "Brown the chicken in batches, then set aside. Heat sauce butter and oil; cook crushed garlic and ginger, then stir in the sauce spices."
+      },
+      {
+        "title": "Make sauce",
+        "text": "Add passata and simmer for 10–15 minutes. Add cream, sugar and chicken; simmer for 5–10 minutes until chicken is cooked through. Taste and adjust salt. Add optional fenugreek or coriander if using."
+      },
+      {
+        "title": "Cook rice",
+        "text": "Combine rice, water, salt and butter in a saucepan. Bring to the boil, cover and cook on low for 12 minutes. Remove from heat and rest, covered, for 5 minutes. Serve with the curry."
+      }
+    ],
+    "notes": "Method wording reconstructed from recovered chat instructions; complete transcripts and later corrections were not available. Kept separate from the April thigh recipe because marinade, sauce quantities and accompanying rice differ. Optional herb and finishing salt quantities are missing.",
+    "tags": [
+      "chicken breast",
+      "curry",
+      "rice"
+    ],
+    "id": "butter-chicken-breast-with-jasmine-rice",
+    "url": "recipe.html?id=butter-chicken-breast-with-jasmine-rice",
+    "source": "Butter chicken chat, 4 February 2026",
+    "timer": 300
+  },
+  {
+    "title": "Cottage Pie",
+    "category": "Dinner",
+    "emoji": "🥧",
+    "subtitle": "Beef and vegetables under mashed potato",
+    "time": "15–20 min potato boiling + 15–20 min filling simmer + 25–30 min baking",
+    "servings": "750 g beef batch",
+    "groups": [
+      {
+        "title": "Mash",
+        "items": [
+          "1.2 kg potatoes",
+          "50 g butter",
+          "100 mL soy milk"
+        ]
+      },
+      {
+        "title": "Filling",
+        "items": [
+          "750 g beef mince",
+          "1 onion",
+          "2 carrots",
+          "2 garlic cloves",
+          "1 cup peas",
+          "2 tbsp tomato paste",
+          "1 tbsp Worcestershire sauce",
+          "1 tsp thyme",
+          "2 cups beef stock",
+          "2 tbsp plain flour",
+          "2 tbsp olive oil"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Mash",
+        "text": "Peel and chop potatoes. Boil for 15–20 minutes until tender, drain and mash with butter and soy milk."
+      },
+      {
+        "title": "Filling",
+        "text": "Chop onion, carrots and garlic. Sauté in olive oil, then add beef mince and brown, breaking up lumps. Stir in tomato paste, flour, Worcestershire sauce and thyme."
+      },
+      {
+        "title": "Simmer",
+        "text": "Add beef stock and simmer for 15–20 minutes until thickened. Stir in peas."
+      },
+      {
+        "title": "Bake",
+        "text": "Transfer filling to a baking dish, cover with mash and bake at 200°C conventional or 180°C fan for 25–30 minutes until hot and golden."
+      }
+    ],
+    "notes": "Method wording reconstructed from recovered chat instructions; complete transcripts and later corrections were not available. Retrieved recipe used unspecified milk. Soy milk is applied here under the user’s later explicit default-milk preference; this is a documented substitution, not a verified correction to that older chat. Beef makes this the cottage-pie version.",
+    "tags": [
+      "beef",
+      "potato",
+      "soy milk"
+    ],
+    "id": "cottage-pie",
+    "url": "recipe.html?id=cottage-pie",
+    "source": "Shepherd’s/Cottage Pie chat, 2 September 2025",
+    "timer": 300
+  },
+  {
+    "title": "Chicken Pesto Pizza",
+    "category": "Dinner",
+    "emoji": "🍕",
+    "subtitle": "Cheddar, parmesan and pine nuts",
+    "time": "90–120 seconds baking; dough preparation separate",
+    "servings": "One recorded topping batch; pizza size not recovered",
+    "groups": [
+      {
+        "title": "Pizza",
+        "items": [
+          "Pizza dough, amount not recovered",
+          "80 g cooked chicken",
+          "1½ tbsp Coles pesto",
+          "50 g cheddar",
+          "15 g parmesan",
+          "1 tbsp pine nuts"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Top",
+        "text": "Stretch pizza dough to your preferred size. Spread with pesto and add cooked chicken, cheddar, parmesan and pine nuts."
+      },
+      {
+        "title": "Bake",
+        "text": "Bake in the Gozney Arc at 400–450°C for 90–120 seconds, rotating every 20–30 seconds until the crust is cooked and the cheese is melted."
+      }
+    ],
+    "notes": "Method wording reconstructed from recovered chat instructions; complete transcripts and later corrections were not available. INCOMPLETE: dough weight and pizza size were not recovered; topping quantities and baking instructions were retrieved. Dough can be made separately using the exported sourdough pizza dough recipe.",
+    "tags": [
+      "chicken",
+      "pesto",
+      "pizza"
+    ],
+    "id": "chicken-pesto-pizza",
+    "url": "recipe.html?id=chicken-pesto-pizza",
+    "source": "Chicken pesto pizza chat, 11 July 2025",
+    "timer": 300
+  },
+  {
+    "title": "Stovetop Satay Chicken — No Coconut Milk",
+    "category": "Dinner",
+    "emoji": "🥜",
+    "subtitle": "A smaller saucy pan version",
+    "time": "3–4 min per side browning + 5–7 min simmering; preparation time not recovered",
+    "servings": "400 g chicken batch",
+    "groups": [
+      {
+        "title": "Chicken and vegetables",
+        "items": [
+          "400 g chicken breast",
+          "1 onion",
+          "Optional: capsicum or peas, quantities not recovered"
+        ]
+      },
+      {
+        "title": "Sauce",
+        "items": [
+          "½ cup peanut butter",
+          "1 tbsp soy sauce",
+          "1 tbsp brown sugar",
+          "1 tbsp lime juice",
+          "1 tsp curry powder",
+          "1 tsp garlic",
+          "1 tsp ginger",
+          "Optional: chilli, quantity not recovered",
+          "¼ cup water"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepare",
+        "text": "Whisk sauce ingredients together. Slice the onion and cut chicken into even pieces. Prepare any optional vegetables."
+      },
+      {
+        "title": "Brown",
+        "text": "Brown chicken in a pan for 3–4 minutes per side. Soften the onion and optional vegetables in the pan."
+      },
+      {
+        "title": "Simmer",
+        "text": "Add sauce and simmer with the chicken for 5–7 minutes, until the chicken is cooked through and the sauce coats it. Stir to prevent sticking."
+      }
+    ],
+    "notes": "Method wording reconstructed from recovered chat instructions; complete transcripts and later corrections were not available. INCOMPLETE: optional vegetable and chilli quantities were not recovered. Cooking fat was not specified and has not been assigned an invented quantity. Distinct from the 800 g marinated BBQ version.",
+    "tags": [
+      "chicken",
+      "peanut",
+      "no coconut"
+    ],
+    "id": "stovetop-satay-chicken-no-coconut-milk",
+    "url": "recipe.html?id=stovetop-satay-chicken-no-coconut-milk",
+    "source": "No-coconut satay chat, 4 November 2025",
+    "timer": 300
+  },
+  {
+    "title": "Chicken and Wholemeal Pasta Meal",
+    "category": "Dinner",
+    "emoji": "🍝",
+    "subtitle": "Recorded meal-plan quantities",
+    "time": "Time not recovered",
+    "servings": "One recorded meal-plan portion; serving count not explicitly stated",
+    "groups": [
+      {
+        "title": "Ingredients",
+        "items": [
+          "180 g raw chicken",
+          "80 g dry wholemeal pasta",
+          "150 g tomato sauce",
+          "100 g frozen vegetables",
+          "10 g olive oil"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Pasta",
+        "text": "Cook wholemeal pasta according to the packet and drain."
+      },
+      {
+        "title": "Chicken and vegetables",
+        "text": "Cut chicken into pieces and cook in olive oil until cooked through. Cook frozen vegetables according to the packet."
+      },
+      {
+        "title": "Combine",
+        "text": "Add tomato sauce and vegetables to the chicken and heat through, then toss with the pasta."
+      }
+    ],
+    "notes": "Method wording reconstructed from recovered chat instructions; complete transcripts and later corrections were not available. This was a simple meal-plan assembly rather than a fully specified standalone recipe. Seasoning quantities and some cooking timings were not recovered; follow package directions where applicable. Serving count was not explicitly recovered.",
+    "tags": [
+      "chicken",
+      "pasta"
+    ],
+    "id": "chicken-and-wholemeal-pasta-meal",
+    "url": "recipe.html?id=chicken-and-wholemeal-pasta-meal",
+    "source": "Family meal-plan chat, 2 April 2026",
+    "timer": 300
+  },
+  {
+    "title": "Mince Taco Bowl",
+    "category": "Dinner",
+    "emoji": "🌮",
+    "subtitle": "Recorded meal-plan quantities",
+    "time": "Time not recovered",
+    "servings": "One recorded meal-plan portion; serving count not explicitly stated",
+    "groups": [
+      {
+        "title": "Ingredients",
+        "items": [
+          "200 g lean mince",
+          "100 g cooked rice",
+          "100 g beans",
+          "50 g cheese",
+          "Lettuce, quantity not recovered",
+          "Tomato, quantity not recovered",
+          "Salsa, quantity not recovered",
+          "Taco seasoning, quantity not recovered"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cook",
+        "text": "Brown the mince with taco seasoning and cook through. Heat the cooked rice and beans."
+      },
+      {
+        "title": "Assemble",
+        "text": "Serve rice, mince and beans in a bowl. Add cheese, lettuce, tomato and salsa."
+      }
+    ],
+    "notes": "Method wording reconstructed from recovered chat instructions; complete transcripts and later corrections were not available. This was a simple meal-plan assembly rather than a fully specified standalone recipe. Seasoning quantities and some cooking timings were not recovered; follow package directions where applicable. Serving count was not explicitly recovered.",
+    "tags": [
+      "mince",
+      "rice",
+      "beans"
+    ],
+    "id": "mince-taco-bowl",
+    "url": "recipe.html?id=mince-taco-bowl",
+    "source": "Family meal-plan chat, 2 April 2026",
+    "timer": 300
+  },
+  {
+    "title": "Chicken, Rice and Vegetables Meal",
+    "category": "Dinner",
+    "emoji": "🍚",
+    "subtitle": "Recorded meal-plan quantities",
+    "time": "Time not recovered",
+    "servings": "One recorded meal-plan portion; serving count not explicitly stated",
+    "groups": [
+      {
+        "title": "Ingredients",
+        "items": [
+          "200 g chicken",
+          "120 g cooked rice",
+          "150 g vegetables",
+          "10 g olive oil"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cook",
+        "text": "Cut chicken into pieces and cook in olive oil until cooked through. Cook the vegetables to your preference."
+      },
+      {
+        "title": "Serve",
+        "text": "Heat the cooked rice and serve with chicken and vegetables."
+      }
+    ],
+    "notes": "Method wording reconstructed from recovered chat instructions; complete transcripts and later corrections were not available. This was a simple meal-plan assembly rather than a fully specified standalone recipe. Seasoning quantities and some cooking timings were not recovered; follow package directions where applicable. Serving count was not explicitly recovered.",
+    "tags": [
+      "chicken",
+      "rice",
+      "vegetables"
+    ],
+    "id": "chicken-rice-and-vegetables-meal",
+    "url": "recipe.html?id=chicken-rice-and-vegetables-meal",
+    "source": "Family meal-plan chat, 2 April 2026",
+    "timer": 300
+  },
+  {
+    "title": "High-Protein Mince Pasta Meal",
+    "category": "Dinner",
+    "emoji": "🍝",
+    "subtitle": "Recorded meal-plan quantities",
+    "time": "Time not recovered",
+    "servings": "One recorded meal-plan portion; serving count not explicitly stated",
+    "groups": [
+      {
+        "title": "Ingredients",
+        "items": [
+          "200 g lean mince",
+          "70 g dry wholemeal pasta",
+          "150 g sauce, type not recovered",
+          "100 g vegetables"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Pasta and vegetables",
+        "text": "Cook pasta according to its packet. Cook the vegetables."
+      },
+      {
+        "title": "Mince and sauce",
+        "text": "Brown mince until cooked through, add the sauce and heat thoroughly. Combine with vegetables and pasta."
+      }
+    ],
+    "notes": "Method wording reconstructed from recovered chat instructions; complete transcripts and later corrections were not available. This was a simple meal-plan assembly rather than a fully specified standalone recipe. Seasoning quantities and some cooking timings were not recovered; follow package directions where applicable. Serving count was not explicitly recovered.",
+    "tags": [
+      "mince",
+      "pasta"
+    ],
+    "id": "high-protein-mince-pasta-meal",
+    "url": "recipe.html?id=high-protein-mince-pasta-meal",
+    "source": "Family meal-plan chat, 2 April 2026",
+    "timer": 300
+  },
+  {
+    "title": "Lazy Chicken, Microwave Rice and Vegetables",
+    "category": "Dinner",
+    "emoji": "🍚",
+    "subtitle": "Recorded meal-plan quantities",
+    "time": "Time not recovered",
+    "servings": "One recorded meal-plan portion; serving count not explicitly stated",
+    "groups": [
+      {
+        "title": "Ingredients",
+        "items": [
+          "150 g precooked or rotisserie chicken",
+          "125 g cooked microwave rice",
+          "150 g frozen vegetables"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Heat",
+        "text": "Heat cooked chicken and microwave rice thoroughly. Cook frozen vegetables according to their packet."
+      },
+      {
+        "title": "Serve",
+        "text": "Combine and serve while hot."
+      }
+    ],
+    "notes": "Method wording reconstructed from recovered chat instructions; complete transcripts and later corrections were not available. This was a simple meal-plan assembly rather than a fully specified standalone recipe. Seasoning quantities and some cooking timings were not recovered; follow package directions where applicable. Serving count was not explicitly recovered.",
+    "tags": [
+      "chicken",
+      "rice",
+      "quick"
+    ],
+    "id": "lazy-chicken-microwave-rice-and-vegetables",
+    "url": "recipe.html?id=lazy-chicken-microwave-rice-and-vegetables",
+    "source": "Family meal-plan chat, 2 April 2026",
+    "timer": 300
+  },
+  {
+    "title": "Burger Bowl",
+    "category": "Dinner",
+    "emoji": "🍔",
+    "subtitle": "Recorded meal-plan quantities",
+    "time": "Time not recovered",
+    "servings": "One recorded meal-plan portion; serving count not explicitly stated",
+    "groups": [
+      {
+        "title": "Ingredients",
+        "items": [
+          "200 g lean meat patty",
+          "1 cheese slice",
+          "Lettuce, quantity not recovered",
+          "Tomato, quantity not recovered",
+          "100 g potato wedges or 1 bun"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cook",
+        "text": "Cook the patty thoroughly. Cook potato wedges according to their packet or recipe, if using, or prepare the bun."
+      },
+      {
+        "title": "Assemble",
+        "text": "Add cheese to the hot patty and serve with lettuce, tomato and the wedges or bun."
+      }
+    ],
+    "notes": "Method wording reconstructed from recovered chat instructions; complete transcripts and later corrections were not available. This was a simple meal-plan assembly rather than a fully specified standalone recipe. Seasoning quantities and some cooking timings were not recovered; follow package directions where applicable. Serving count was not explicitly recovered.",
+    "tags": [
+      "burger",
+      "salad"
+    ],
+    "id": "burger-bowl",
+    "url": "recipe.html?id=burger-bowl",
+    "source": "Family meal-plan chat, 2 April 2026",
+    "timer": 300
+  },
+  {
     "id": "soy-milk-waffles",
     "title": "Soy Milk Waffles",
     "category": "Breakfast",
@@ -779,6 +1362,137 @@
     "timer": 480
   },
   {
+    "title": "Eggs, Beans and Cottage Cheese on Toast",
+    "category": "Breakfast",
+    "emoji": "🍳",
+    "subtitle": "Recorded meal-plan quantities",
+    "time": "Time not recovered",
+    "servings": "One recorded meal-plan portion; serving count not explicitly stated",
+    "groups": [
+      {
+        "title": "Ingredients",
+        "items": [
+          "2 eggs",
+          "2 slices wholemeal bread",
+          "150 g baked beans",
+          "100 g cottage cheese"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepare",
+        "text": "Toast the bread and heat the baked beans. Cook the eggs to your preference."
+      },
+      {
+        "title": "Serve",
+        "text": "Serve eggs and beans with toast and cottage cheese."
+      }
+    ],
+    "notes": "Method wording reconstructed from recovered chat instructions; complete transcripts and later corrections were not available. This was a simple meal-plan assembly rather than a fully specified standalone recipe. Seasoning quantities and some cooking timings were not recovered; follow package directions where applicable. Serving count was not explicitly recovered.",
+    "tags": [
+      "eggs",
+      "beans",
+      "cottage cheese"
+    ],
+    "id": "eggs-beans-and-cottage-cheese-on-toast",
+    "url": "recipe.html?id=eggs-beans-and-cottage-cheese-on-toast",
+    "source": "Family meal-plan chat, 2 April 2026",
+    "timer": 300
+  },
+  {
+    "title": "Sweet Chilli Chicken and Bacon Waffles",
+    "category": "Breakfast",
+    "emoji": "🧇",
+    "subtitle": "Savoury topping with optional sweet chilli and maple drizzle",
+    "time": "Time not recovered",
+    "servings": "Yield not recovered",
+    "groups": [
+      {
+        "title": "Batter",
+        "items": [
+          "1½ cups flour",
+          "2 tsp baking powder",
+          "½ tsp salt",
+          "1 tbsp sugar",
+          "1 cup soy milk",
+          "2 eggs",
+          "3 tbsp melted butter or oil"
+        ]
+      },
+      {
+        "title": "Topping",
+        "items": [
+          "Cooked chicken tenders, quantity not recovered",
+          "Cooked bacon, quantity not recovered",
+          "Optional: equal parts sweet chilli sauce and maple syrup; total quantity not recovered"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Batter",
+        "text": "Preheat the waffle maker. Combine dry ingredients. Whisk soy milk, eggs and melted butter or oil separately, then combine gently with the dry ingredients."
+      },
+      {
+        "title": "Cook and top",
+        "text": "Cook waffles until golden. Top with hot cooked chicken tenders and cooked bacon. If using the drizzle, combine equal parts sweet chilli sauce and maple syrup and spoon over."
+      }
+    ],
+    "notes": "Method wording reconstructed from recovered chat instructions; complete transcripts and later corrections were not available. INCOMPLETE: topping amounts and yield not recovered. The earlier batter used unspecified milk; soy milk is applied under the user’s later explicit default-milk preference. This cup-measured savoury version is retained separately from the later weighed soy-milk waffle recipe.",
+    "tags": [
+      "waffles",
+      "chicken",
+      "bacon",
+      "soy milk"
+    ],
+    "id": "sweet-chilli-chicken-and-bacon-waffles",
+    "url": "recipe.html?id=sweet-chilli-chicken-and-bacon-waffles",
+    "source": "Chicken and bacon waffles chat, 25 October 2025",
+    "timer": 300
+  },
+  {
+    "title": "Chicken, Tuna or Mince Wrap Bowl",
+    "category": "Lunch",
+    "emoji": "🌯",
+    "subtitle": "Recorded meal-plan quantities",
+    "time": "Time not recovered",
+    "servings": "One recorded meal-plan portion; serving count not explicitly stated",
+    "groups": [
+      {
+        "title": "Ingredients",
+        "items": [
+          "1 large wholemeal wrap",
+          "150 g cooked chicken, or 1 tin tuna, or 150 g lean mince",
+          "Optional: 50 g avocado",
+          "50 g salad",
+          "30 g light sauce"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepare protein",
+        "text": "Use cooked chicken, drain the tuna, or cook the mince thoroughly. Prepare the salad and optional avocado."
+      },
+      {
+        "title": "Assemble",
+        "text": "Serve the protein, salad, optional avocado and light sauce with the wholemeal wrap, either wrapped or as a bowl with the wrap alongside."
+      }
+    ],
+    "notes": "Method wording reconstructed from recovered chat instructions; complete transcripts and later corrections were not available. This was a simple meal-plan assembly rather than a fully specified standalone recipe. Seasoning quantities and some cooking timings were not recovered; follow package directions where applicable. Serving count was not explicitly recovered.",
+    "tags": [
+      "chicken",
+      "tuna",
+      "mince",
+      "wrap"
+    ],
+    "id": "chicken-tuna-or-mince-wrap-bowl",
+    "url": "recipe.html?id=chicken-tuna-or-mince-wrap-bowl",
+    "source": "Family meal-plan chat, 2 April 2026",
+    "timer": 300
+  },
+  {
     "id": "wholemeal-sourdough",
     "title": "Wholemeal Sourdough in the Cloche",
     "category": "Baking",
@@ -843,6 +1557,54 @@
     "timer": 1500
   },
   {
+    "title": "Sourdough Pizza Dough",
+    "category": "Baking",
+    "emoji": "🍕",
+    "subtitle": "Long-fermented dough for the Gozney",
+    "time": "30–60 min autolyse + 4–6 hours bulk + 12–48 hours cold ferment + 2–3 hours rest",
+    "servings": "4 dough portions",
+    "groups": [
+      {
+        "title": "Dough",
+        "items": [
+          "500 g flour",
+          "100 g active sourdough starter",
+          "325 g water",
+          "10 g salt",
+          "Optional: 15 g oil"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Autolyse",
+        "text": "Mix flour and water and rest for 30–60 minutes."
+      },
+      {
+        "title": "Mix and ferment",
+        "text": "Work in starter, salt and optional oil, then knead. Bulk ferment for 4–6 hours with folds, judging progress by dough activity."
+      },
+      {
+        "title": "Cold ferment",
+        "text": "Cover and refrigerate for 12–48 hours. Divide into 4 portions and rest at room temperature for 2–3 hours before stretching."
+      },
+      {
+        "title": "Bake",
+        "text": "Stretch and top with your chosen toppings. Bake in a pizza oven at 450–500°C for about 60–90 seconds, turning as needed."
+      }
+    ],
+    "notes": "Method wording reconstructed from recovered chat instructions; complete transcripts and later corrections were not available. Flour type, starter hydration, fold frequency and topping quantities were not recovered. This is a dough recipe; toppings are separate.",
+    "tags": [
+      "flour",
+      "starter",
+      "pizza"
+    ],
+    "id": "sourdough-pizza-dough",
+    "url": "recipe.html?id=sourdough-pizza-dough",
+    "source": "Sourdough pizza chat, 11 July 2025",
+    "timer": 300
+  },
+  {
     "id": "smoked-pulled-pork-tacos",
     "title": "Smoked Pulled Pork for Tacos",
     "category": "Smoker",
@@ -860,7 +1622,7 @@
       {
         "title": "Pork",
         "items": [
-          "1.8–2.3 kg pork shoulder (original: 4–5 lb)",
+          "1.8–2.3 kg pork shoulder",
           "Mustard, enough for a thin binder",
           "Apple juice or cider vinegar, for spritzing"
         ]
@@ -894,7 +1656,7 @@
     "steps": [
       {
         "title": "Season",
-        "text": "Coat pork lightly with mustard, then rub. Heat the smoker to about 107°C (the original 225°F), using apple, hickory or pecan pellets."
+        "text": "Coat pork lightly with mustard, then rub. Heat the smoker to about 107°C, using apple, hickory or pecan pellets."
       },
       {
         "title": "Smoke",
@@ -1126,7 +1888,16 @@
       {
         "title": "Optional after processing",
         "items": [
-          "Fruit, dark chocolate, crushed biscuit, nuts or a small spoonful of peanut butter"
+          "Optional: fruit, quantity not specified",
+          "Optional: 10–15 g dark chocolate",
+          "Optional: crushed biscuit or nuts, quantity not specified",
+          "Optional: a small spoonful of peanut butter"
+        ]
+      },
+      {
+        "title": "If powdery after processing",
+        "items": [
+          "15–30 g soy milk, only if needed for a re-spin"
         ]
       }
     ],
@@ -1181,7 +1952,16 @@
       {
         "title": "Optional after processing",
         "items": [
-          "Fruit, dark chocolate, crushed biscuit, nuts or a small spoonful of peanut butter"
+          "Optional: fruit, quantity not specified",
+          "Optional: 10–15 g dark chocolate",
+          "Optional: crushed biscuit or nuts, quantity not specified",
+          "Optional: a small spoonful of peanut butter"
+        ]
+      },
+      {
+        "title": "If powdery after processing",
+        "items": [
+          "15–30 g soy milk, only if needed for a re-spin"
         ]
       }
     ],
@@ -1236,7 +2016,16 @@
       {
         "title": "Optional after processing",
         "items": [
-          "Fruit, dark chocolate, crushed biscuit, nuts or a small spoonful of peanut butter"
+          "Optional: fruit, quantity not specified",
+          "Optional: 10–15 g dark chocolate",
+          "Optional: crushed biscuit or nuts, quantity not specified",
+          "Optional: a small spoonful of peanut butter"
+        ]
+      },
+      {
+        "title": "If powdery after processing",
+        "items": [
+          "15–30 g soy milk, only if needed for a re-spin"
         ]
       }
     ],
@@ -1291,7 +2080,16 @@
       {
         "title": "Optional after processing",
         "items": [
-          "Fruit, dark chocolate, crushed biscuit, nuts or a small spoonful of peanut butter"
+          "Optional: fruit, quantity not specified",
+          "Optional: 10–15 g dark chocolate",
+          "Optional: crushed biscuit or nuts, quantity not specified",
+          "Optional: a small spoonful of peanut butter"
+        ]
+      },
+      {
+        "title": "If powdery after processing",
+        "items": [
+          "15–30 g soy milk, only if needed for a re-spin"
         ]
       }
     ],
@@ -1346,7 +2144,16 @@
       {
         "title": "Optional after processing",
         "items": [
-          "Fruit, dark chocolate, crushed biscuit, nuts or a small spoonful of peanut butter"
+          "Optional: fruit, quantity not specified",
+          "Optional: 10–15 g dark chocolate",
+          "Optional: crushed biscuit or nuts, quantity not specified",
+          "Optional: a small spoonful of peanut butter"
+        ]
+      },
+      {
+        "title": "If powdery after processing",
+        "items": [
+          "15–30 g soy milk, only if needed for a re-spin"
         ]
       }
     ],
@@ -1400,7 +2207,16 @@
       {
         "title": "Optional after processing",
         "items": [
-          "Fruit, dark chocolate, crushed biscuit, nuts or a small spoonful of peanut butter"
+          "Optional: fruit, quantity not specified",
+          "Optional: 10–15 g dark chocolate",
+          "Optional: crushed biscuit or nuts, quantity not specified",
+          "Optional: a small spoonful of peanut butter"
+        ]
+      },
+      {
+        "title": "If powdery after processing",
+        "items": [
+          "15–30 g soy milk, only if needed for a re-spin"
         ]
       }
     ],
@@ -1454,7 +2270,16 @@
       {
         "title": "Optional after processing",
         "items": [
-          "Fruit, dark chocolate, crushed biscuit, nuts or a small spoonful of peanut butter"
+          "Optional: fruit, quantity not specified",
+          "Optional: 10–15 g dark chocolate",
+          "Optional: crushed biscuit or nuts, quantity not specified",
+          "Optional: a small spoonful of peanut butter"
+        ]
+      },
+      {
+        "title": "If powdery after processing",
+        "items": [
+          "15–30 g soy milk, only if needed for a re-spin"
         ]
       }
     ],
@@ -1509,7 +2334,16 @@
       {
         "title": "Optional after processing",
         "items": [
-          "Fruit, dark chocolate, crushed biscuit, nuts or a small spoonful of peanut butter"
+          "Optional: fruit, quantity not specified",
+          "Optional: 10–15 g dark chocolate",
+          "Optional: crushed biscuit or nuts, quantity not specified",
+          "Optional: a small spoonful of peanut butter"
+        ]
+      },
+      {
+        "title": "If powdery after processing",
+        "items": [
+          "15–30 g soy milk, only if needed for a re-spin"
         ]
       }
     ],
@@ -1667,7 +2501,7 @@
       },
       {
         "title": "Process",
-        "text": "Pour the cold, smooth mixture into the machine. Do not put ice or solid fruit directly into the vessel. Use SLUSH or FROZEN JUICE."
+        "text": "Pour the cold, smooth mixture into the machine. Do not add ice or solid fruit directly. Use SLUSH or FROZEN JUICE, as recorded in the PDF."
       },
       {
         "title": "Adjust",
@@ -1915,6 +2749,136 @@
     ],
     "source": "Ninja_Creami_Slushi_Healthy_Recipes.pdf · 29 August 2026",
     "notes": "FS301ANZ recipe from your original sheet. Use the programme names available on your machine.",
+    "timer": 300
+  },
+  {
+    "title": "Piña Colada SLUSHi — Alcohol Free",
+    "category": "SLUSHi",
+    "emoji": "🍍",
+    "subtitle": "Whole 400 mL can of coconut milk",
+    "time": "Time not recovered",
+    "servings": "1330 mL mixture",
+    "groups": [
+      {
+        "title": "Mixture",
+        "items": [
+          "400 mL coconut milk",
+          "865 mL pineapple juice",
+          "65 mL lime juice"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Combine and chill",
+        "text": "Whisk or blend the ingredients until completely smooth and chill thoroughly."
+      },
+      {
+        "title": "Process",
+        "text": "Pour the smooth liquid into the SLUSHi within its fill limits and use the appropriate frozen-drink programme from your machine manual. Process until slushy; no cycle duration was recovered."
+      }
+    ],
+    "notes": "Method wording reconstructed from recovered chat instructions; complete transcripts and later corrections were not available. Exact millilitre ratios were recovered; machine programme, processing time and texture adjustments were not. Processing instructions are reconstructed.",
+    "tags": [
+      "pineapple",
+      "coconut milk"
+    ],
+    "id": "pina-colada-slushi-alcohol-free",
+    "url": "recipe.html?id=pina-colada-slushi-alcohol-free",
+    "source": "Piña colada ratio follow-up, 11 September 2026",
+    "timer": 300
+  },
+  {
+    "title": "Piña Colada SLUSHi with Rum",
+    "category": "SLUSHi",
+    "emoji": "🍍",
+    "subtitle": "Whole 400 mL can of coconut milk",
+    "time": "Time not recovered",
+    "servings": "1335 mL mixture",
+    "groups": [
+      {
+        "title": "Mixture",
+        "items": [
+          "400 mL coconut milk",
+          "735 mL pineapple juice",
+          "65 mL lime juice",
+          "135 mL rum"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Combine and chill",
+        "text": "Whisk or blend the ingredients until completely smooth and chill thoroughly."
+      },
+      {
+        "title": "Process",
+        "text": "Pour the smooth liquid into the SLUSHi within its fill limits and use the appropriate frozen-drink programme from your machine manual. Process until slushy; no cycle duration was recovered."
+      }
+    ],
+    "notes": "Method wording reconstructed from recovered chat instructions; complete transcripts and later corrections were not available. Exact millilitre ratios were recovered; machine programme, processing time and texture adjustments were not. Processing instructions are reconstructed. Alcohol changes freezing behaviour; the recovered ratio is retained without promising a particular result.",
+    "tags": [
+      "pineapple",
+      "coconut milk",
+      "rum"
+    ],
+    "id": "pina-colada-slushi-with-rum",
+    "url": "recipe.html?id=pina-colada-slushi-with-rum",
+    "source": "Piña colada ratio follow-up, 11 September 2026",
+    "timer": 300
+  },
+  {
+    "title": "Crème Brûlée",
+    "category": "Dessert",
+    "emoji": "🍮",
+    "subtitle": "Cream and vanilla custard with a caramelised sugar crust",
+    "time": "35–45 min baking + cooling + at least 4 hours chilling",
+    "servings": "One 600 mL cream batch; ramekin count not recovered",
+    "groups": [
+      {
+        "title": "Custard",
+        "items": [
+          "600 mL pure cream",
+          "6 egg yolks",
+          "75 g caster sugar",
+          "1 tsp vanilla",
+          "Pinch of salt"
+        ]
+      },
+      {
+        "title": "Topping",
+        "items": [
+          "2–3 tbsp sugar"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepare",
+        "text": "Heat oven to 150°C. Warm cream with vanilla. Whisk egg yolks, caster sugar and salt, then gradually whisk in the warm cream. Divide among ramekins."
+      },
+      {
+        "title": "Bake in a water bath",
+        "text": "Place ramekins in a deep baking dish and add hot water around them to form a water bath. Bake at 150°C for 35–45 minutes until the edges are set and the centres still wobble gently."
+      },
+      {
+        "title": "Chill",
+        "text": "Remove ramekins from the water bath, cool, then refrigerate for at least 4 hours."
+      },
+      {
+        "title": "Caramelise",
+        "text": "Distribute the topping sugar in thin layers over the cold custards; the retrieved guidance was about 1 tsp per ramekin. Torch until caramelised. Let the crust harden before serving."
+      }
+    ],
+    "notes": "Method wording reconstructed from recovered chat instructions; complete transcripts and later corrections were not available. Ramekin count, size, cream-heating temperature and water-bath depth were not recovered.",
+    "tags": [
+      "cream",
+      "eggs",
+      "vanilla"
+    ],
+    "id": "creme-brulee",
+    "url": "recipe.html?id=creme-brulee",
+    "source": "Dessert chat, 4 July 2026",
     "timer": 300
   }
 ]
