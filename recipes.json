@@ -2,15 +2,1919 @@
   {
     "id": "fallow-chicken",
     "title": "Fallow's Ultimate Crispy Chicken",
-    "subtitle": "Hot honey \u00b7 Blue cheese ranch",
+    "subtitle": "Hot honey · Blue cheese ranch",
     "category": "Dinner",
     "time": "24-hour marinade + 45 min",
-    "servings": "4\u20136",
+    "servings": "4–6",
     "url": "fallow-chicken.html",
     "tags": [
       "chicken",
       "fried",
       "hot honey"
-    ]
+    ],
+    "emoji": "🍗",
+    "source": "Original Home Kitchen PWA",
+    "notes": "Ingredient amounts are reconstructed home-kitchen estimates from the video transcript, not verified Fallow quantities."
+  },
+  {
+    "id": "satay-no-coconut",
+    "title": "Satay Chicken — No Coconut Milk",
+    "category": "Dinner",
+    "emoji": "🥜",
+    "time": "1-hour marinade + 20 min",
+    "servings": "800 g chicken batch",
+    "subtitle": "Peanut sauce · BBQ, air fryer or oven",
+    "url": "recipe.html?id=satay-no-coconut",
+    "tags": [
+      "chicken",
+      "peanut",
+      "satay",
+      "no coconut"
+    ],
+    "groups": [
+      {
+        "title": "Chicken & marinade",
+        "items": [
+          "800 g chicken",
+          "2 tbsp peanut butter",
+          "1 tbsp soy sauce",
+          "1 tbsp sweet chilli sauce",
+          "1 tbsp curry powder",
+          "1 tsp turmeric",
+          "2 garlic cloves, crushed",
+          "1 tbsp honey or brown sugar",
+          "Juice of ½ lime",
+          "2 tbsp water"
+        ]
+      },
+      {
+        "title": "Satay sauce",
+        "items": [
+          "½ cup peanut butter",
+          "½ cup water, plus more to thin",
+          "1 tbsp soy sauce",
+          "1 tbsp sweet chilli sauce",
+          "1 tbsp honey or brown sugar",
+          "Juice of ½ lime"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Marinate",
+        "text": "Cut chicken into even pieces. Mix the marinade and coat the chicken. Refrigerate for at least 1 hour."
+      },
+      {
+        "title": "Make sauce",
+        "text": "Combine sauce ingredients in a small pan. Warm gently, stirring, and thin with water to your preferred consistency."
+      },
+      {
+        "title": "Cook",
+        "text": "Cook on the BBQ for about 10–12 minutes, in the air fryer at 200°C for about 10–12 minutes, or in the oven at 220°C for about 15–18 minutes. Turn as needed. Timing depends on piece size; check chicken reaches 75°C internally."
+      },
+      {
+        "title": "Serve",
+        "text": "Serve with the warm sauce. Rice and vegetables can be prepared separately."
+      }
+    ],
+    "source": "Cooking chat · 21 June 2026",
+    "notes": "Your no-coconut-milk version. Sauce is separate from raw-chicken marinade.",
+    "timer": 600
+  },
+  {
+    "id": "soy-milk-mac-cheese",
+    "title": "Soy Milk Mac & Cheese",
+    "category": "Dinner",
+    "emoji": "🧀",
+    "time": "35–45 min",
+    "servings": "1 baking dish",
+    "subtitle": "Cornflake & chive topping",
+    "url": "recipe.html?id=soy-milk-mac-cheese",
+    "tags": [
+      "pasta",
+      "soy milk",
+      "cheese"
+    ],
+    "groups": [
+      {
+        "title": "Pasta & sauce",
+        "items": [
+          "2 cups dry macaroni",
+          "2 tbsp butter",
+          "2 tbsp plain flour",
+          "2 cups soy milk",
+          "1 cup strong grated cheese",
+          "¼ cup grated parmesan",
+          "Optional: ½ cup cottage cheese",
+          "Optional: 1 cup cooked smoked chicken or salami",
+          "Optional: paprika or mustard, to taste"
+        ]
+      },
+      {
+        "title": "Cornflake-chive topping",
+        "items": [
+          "1–1½ cups crushed cornflakes",
+          "1–2 tbsp melted butter or oil",
+          "2 tbsp chopped chives"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cook pasta",
+        "text": "Cook macaroni until just shy of fully cooked. Drain. Heat oven to 180°C."
+      },
+      {
+        "title": "Make sauce",
+        "text": "Melt butter, stir in flour and cook briefly. Gradually whisk in soy milk until smooth and thickened. Reduce heat and melt in cheeses. Add optional ingredients if using."
+      },
+      {
+        "title": "Assemble",
+        "text": "Mix pasta and sauce in a baking dish. Combine cornflakes, butter or oil and chives; scatter over the top."
+      },
+      {
+        "title": "Bake",
+        "text": "Bake at 180°C for 20–25 minutes until hot and the topping is golden."
+      }
+    ],
+    "source": "Cooking chat · 22 September 2025",
+    "notes": "Soy milk version with the cornflake and chive topping.",
+    "timer": 1200
+  },
+  {
+    "id": "chicken-bolognese",
+    "title": "Chicken Mince Bolognese — 1 kg Batch",
+    "category": "Dinner",
+    "emoji": "🍝",
+    "time": "about 1 hour",
+    "servings": "1 kg mince batch",
+    "subtitle": "Family batch · Soy milk optional",
+    "url": "recipe.html?id=chicken-bolognese",
+    "tags": [
+      "mince",
+      "chicken",
+      "pasta",
+      "freezer"
+    ],
+    "groups": [
+      {
+        "title": "Sauce",
+        "items": [
+          "1 kg chicken mince",
+          "1–2 tbsp olive oil",
+          "2 onions, finely diced",
+          "2 carrots, grated or diced",
+          "Optional: 2 celery sticks, diced",
+          "4 garlic cloves, crushed",
+          "3 tbsp tomato paste",
+          "400 g diced tomatoes",
+          "300 mL chicken stock",
+          "2 tsp dried oregano",
+          "2 tsp dried basil",
+          "1 tsp paprika",
+          "1 tbsp Worcestershire sauce",
+          "Salt and pepper, to taste",
+          "Optional: 100–150 mL soy milk"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Soften vegetables",
+        "text": "Heat oil and sauté onion, carrot and optional celery for 6–8 minutes. Add garlic for 30–60 seconds."
+      },
+      {
+        "title": "Brown mince",
+        "text": "Brown the mince in two batches, breaking up lumps. Return all mince and vegetables to the pan."
+      },
+      {
+        "title": "Build sauce",
+        "text": "Fry tomato paste for 1–2 minutes. Add tomatoes, stock, herbs, paprika and Worcestershire. Season to taste."
+      },
+      {
+        "title": "Simmer",
+        "text": "Simmer uncovered for 35–45 minutes, stirring occasionally. Add optional soy milk during the last 10 minutes. Add a little water if too thick; cook longer uncovered if too thin. Ensure chicken mince is cooked through."
+      },
+      {
+        "title": "Serve or portion",
+        "text": "Serve with separately cooked pasta, or cool promptly and portion for the freezer."
+      }
+    ],
+    "source": "Cooking chat · 2 October 2026",
+    "notes": "Recovered 1 kg batch using one 400 g tin of tomatoes. This is a mince sauce, not a meatball mixture.",
+    "timer": 2100
+  },
+  {
+    "id": "slow-cooker-pulled-pork",
+    "title": "Slow Cooker Pulled Pork",
+    "category": "Dinner",
+    "emoji": "🐖",
+    "time": "8–10 hours LOW",
+    "servings": "2.7 kg pork batch",
+    "subtitle": "Low and slow · BBQ finish",
+    "url": "recipe.html?id=slow-cooker-pulled-pork",
+    "tags": [
+      "pork",
+      "slow cooker",
+      "BBQ",
+      "freezer"
+    ],
+    "groups": [
+      {
+        "title": "Pork & cooking liquid",
+        "items": [
+          "2.7 kg boneless pork roast",
+          "1 onion, sliced",
+          "½ cup apple juice or cider vinegar"
+        ]
+      },
+      {
+        "title": "Rub",
+        "items": [
+          "2 tbsp smoked paprika",
+          "2 tbsp brown sugar",
+          "1 tbsp salt",
+          "2 tsp black pepper",
+          "1 tbsp garlic powder",
+          "1 tsp cumin",
+          "Optional: 1 tsp chilli powder"
+        ]
+      },
+      {
+        "title": "Finish",
+        "items": [
+          "Up to 1 cup BBQ sauce, to taste",
+          "Reserved cooking juices, fat removed"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepare",
+        "text": "Mix rub ingredients. Coat pork and place on the sliced onion in the slow cooker. Add the cooking liquid."
+      },
+      {
+        "title": "Slow cook",
+        "text": "Cook on LOW for 8–10 hours until easily pulled apart. Use tenderness rather than time alone."
+      },
+      {
+        "title": "Shred",
+        "text": "Lift pork out, remove string and large fat pieces, then shred. Reserve and skim the cooking liquid."
+      },
+      {
+        "title": "Finish",
+        "text": "Mix pork with some reserved juices and BBQ sauce to taste. If you want to divide into different flavours, divide the plain shredded pork first."
+      },
+      {
+        "title": "Optional crisp",
+        "text": "Spread pork on a tray and crisp at 220°C for 10–15 minutes, watching closely."
+      }
+    ],
+    "source": "Cooking chat · 12 February 2026",
+    "notes": "The BBQ base was recovered. The exact separate taco-finishing mix was not retrieved, so it has not been invented.",
+    "timer": 600
+  },
+  {
+    "id": "chicken-brie-risotto",
+    "title": "Chicken, Brie & Mushroom Risotto",
+    "category": "Dinner",
+    "emoji": "🍚",
+    "time": "about 35–45 min",
+    "servings": "500 g chicken batch",
+    "subtitle": "Arborio · Mushrooms · Spinach",
+    "url": "recipe.html?id=chicken-brie-risotto",
+    "tags": [
+      "chicken",
+      "rice",
+      "brie",
+      "mushroom"
+    ],
+    "groups": [
+      {
+        "title": "Risotto",
+        "items": [
+          "500 g chicken breast, diced",
+          "1 cup arborio rice",
+          "1 L chicken stock, kept hot",
+          "120 g brie, chopped",
+          "100–150 g mushrooms, sliced",
+          "1–2 handfuls baby spinach",
+          "1 onion, diced",
+          "2 garlic cloves, crushed",
+          "Butter, for cooking and finishing",
+          "Olive oil, for cooking",
+          "Optional: 20–30 g cheddar"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Sear",
+        "text": "Sear chicken in a little oil, then set aside. Brown mushrooms separately."
+      },
+      {
+        "title": "Start rice",
+        "text": "Soften onion in butter and oil, add garlic, then toast rice for 1–2 minutes."
+      },
+      {
+        "title": "Add stock",
+        "text": "Add hot stock a ladle at a time, stirring and allowing each addition to absorb before adding more."
+      },
+      {
+        "title": "Finish cooking",
+        "text": "Return chicken and mushrooms after about 8–10 minutes. Continue adding stock until rice is tender and chicken is cooked through to 75°C."
+      },
+      {
+        "title": "Finish off heat",
+        "text": "Take off heat. Stir in brie, a little butter, optional cheddar and spinach. Loosen with stock if needed."
+      }
+    ],
+    "source": "Cooking chat · 3 May 2026",
+    "notes": "Butter and oil amounts were not specified in the recovered recipe. Servings were not recorded.",
+    "timer": 600
+  },
+  {
+    "id": "butter-chicken",
+    "title": "Butter Chicken",
+    "category": "Dinner",
+    "emoji": "🍛",
+    "time": "1-hour marinade + about 40 min",
+    "servings": "4–5",
+    "subtitle": "Yoghurt marinade · Creamy tomato sauce",
+    "url": "recipe.html?id=butter-chicken",
+    "tags": [
+      "chicken",
+      "curry",
+      "Indian"
+    ],
+    "groups": [
+      {
+        "title": "Marinade",
+        "items": [
+          "600–800 g chicken thigh, cut into pieces",
+          "¾ cup plain yoghurt",
+          "1 tbsp lemon juice",
+          "2 tsp garam masala",
+          "2 tsp paprika or Kashmiri chilli",
+          "1 tsp cumin",
+          "1 tsp turmeric",
+          "2 tsp minced garlic",
+          "2 tsp minced ginger",
+          "1–1½ tsp salt"
+        ]
+      },
+      {
+        "title": "Sauce",
+        "items": [
+          "2 tbsp butter",
+          "1 tbsp oil",
+          "1 onion, diced",
+          "3 garlic cloves, crushed",
+          "1 tbsp minced ginger",
+          "1½ tsp garam masala",
+          "1 tsp cumin",
+          "1 tsp paprika",
+          "½–1 tsp chilli powder",
+          "400 g crushed tomatoes",
+          "1 tbsp tomato paste",
+          "1–2 tsp sugar",
+          "¾ cup cream",
+          "Salt, to taste"
+        ]
+      },
+      {
+        "title": "Finish",
+        "items": [
+          "1 tbsp butter",
+          "Optional: coriander",
+          "Optional: ½ tsp kasuri methi"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Marinate",
+        "text": "Coat chicken with all marinade ingredients. Refrigerate for at least 1 hour or overnight."
+      },
+      {
+        "title": "Brown chicken",
+        "text": "Roast at 220°C for 15–20 minutes, or brown in batches in a pan. It will finish cooking in the sauce."
+      },
+      {
+        "title": "Build sauce",
+        "text": "Heat butter and oil. Sauté onion for 5–8 minutes, garlic and ginger for 1 minute, then spices for 30 seconds."
+      },
+      {
+        "title": "Simmer tomatoes",
+        "text": "Add tomatoes and paste. Simmer for 10–15 minutes. Blend the sauce carefully until smooth if desired."
+      },
+      {
+        "title": "Finish",
+        "text": "Return chicken and simmer for about 10 minutes, ensuring 75°C internally. Stir in cream, sugar, finishing butter and optional kasuri methi. Season and garnish with coriander."
+      }
+    ],
+    "source": "Cooking chat · 17 April 2026",
+    "notes": "Recovered thigh version. Rice and roti are separate.",
+    "timer": 600
+  },
+  {
+    "id": "tikka-masala",
+    "title": "Chicken Tikka Masala",
+    "category": "Dinner",
+    "emoji": "🍛",
+    "time": "1-hour marinade + about 40 min",
+    "servings": "4–5",
+    "subtitle": "Spiced chicken · Tomato masala sauce",
+    "url": "recipe.html?id=tikka-masala",
+    "tags": [
+      "chicken",
+      "curry",
+      "Indian"
+    ],
+    "groups": [
+      {
+        "title": "Marinade",
+        "items": [
+          "700 g chicken thigh",
+          "¾ cup plain yoghurt",
+          "1 tbsp lemon juice",
+          "2 tsp garam masala",
+          "2 tsp paprika",
+          "1 tsp cumin",
+          "1 tsp turmeric",
+          "2 tsp minced garlic",
+          "2 tsp minced ginger",
+          "1–1½ tsp salt"
+        ]
+      },
+      {
+        "title": "Sauce",
+        "items": [
+          "2 tbsp oil",
+          "1 tbsp butter",
+          "1 large onion, diced",
+          "3 garlic cloves, crushed",
+          "1 tbsp minced ginger",
+          "2 tsp garam masala",
+          "1½ tsp cumin",
+          "1 tsp ground coriander",
+          "1 tsp paprika",
+          "½–1 tsp chilli powder",
+          "400 g crushed tomatoes",
+          "1 tbsp tomato paste",
+          "Optional: ½–1 tsp sugar",
+          "½ cup thickened cream",
+          "Salt, to taste"
+        ]
+      },
+      {
+        "title": "Finish",
+        "items": [
+          "1 tbsp butter",
+          "Coriander",
+          "Optional: ½ tsp kasuri methi"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Marinate",
+        "text": "Mix chicken with marinade ingredients and refrigerate for at least 1 hour, preferably overnight."
+      },
+      {
+        "title": "Sear chicken",
+        "text": "Sear chicken in batches in a hot pan and set aside."
+      },
+      {
+        "title": "Make sauce",
+        "text": "Using the sauce oil and butter, soften onion, then add garlic and ginger. Stir in spices briefly. Add tomatoes and paste; simmer until reduced and the raw tomato flavour has cooked out."
+      },
+      {
+        "title": "Finish cooking",
+        "text": "Return chicken and juices and simmer gently until cooked through to 75°C. Add cream, finishing butter and optional sugar/kasuri methi. Season and top with coriander."
+      }
+    ],
+    "source": "Cooking chat · 17 April 2026",
+    "notes": "Ingredient quantities recovered from the original chat; the later method steps were reconstructed for the app from the retrieved searing step.",
+    "timer": 600
+  },
+  {
+    "id": "chicken-quesadillas",
+    "title": "Chicken Quesadillas",
+    "category": "Dinner",
+    "emoji": "🫓",
+    "time": "about 30 min",
+    "servings": "4–6 wraps",
+    "subtitle": "Melting cheese · Toasted wraps",
+    "url": "recipe.html?id=chicken-quesadillas",
+    "tags": [
+      "chicken",
+      "wraps",
+      "cheese",
+      "quick"
+    ],
+    "groups": [
+      {
+        "title": "Quesadillas",
+        "items": [
+          "2 chicken breasts",
+          "4–6 wheat wraps",
+          "1½–2 cups shredded cheese",
+          "½ onion, diced",
+          "½ capsicum, diced",
+          "1–2 garlic cloves, crushed",
+          "2 tbsp cream cheese, sour cream or mayonnaise",
+          "1 tbsp BBQ sauce, sweet chilli sauce or taco seasoning",
+          "Salt and pepper, to taste"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cook chicken",
+        "text": "Cook chicken through to 75°C internally, then shred or chop finely."
+      },
+      {
+        "title": "Make filling",
+        "text": "Sauté onion, capsicum and garlic until softened. Mix chicken with your chosen creamy ingredient and sauce or seasoning."
+      },
+      {
+        "title": "Assemble",
+        "text": "Add filling, vegetables and cheese to one half of each wrap and fold over."
+      },
+      {
+        "title": "Toast",
+        "text": "Pan-cook for about 2–3 minutes per side until crisp and the cheese is melted. Cut into wedges."
+      }
+    ],
+    "source": "Cooking chat · 22 March 2026",
+    "notes": "Recovered base recipe. The separate variation recipes in the old PDF were not available.",
+    "timer": 180
+  },
+  {
+    "id": "quick-chicken-sushi",
+    "title": "Quick Chicken Sushi Rolls",
+    "category": "Dinner",
+    "emoji": "🍣",
+    "time": "about 45 min",
+    "servings": "2-cup rice batch",
+    "subtitle": "Teriyaki · Avocado · Cucumber",
+    "url": "recipe.html?id=quick-chicken-sushi",
+    "tags": [
+      "chicken",
+      "rice",
+      "sushi",
+      "teriyaki"
+    ],
+    "groups": [
+      {
+        "title": "Sushi rice",
+        "items": [
+          "2 cups sushi rice",
+          "2½ cups water",
+          "¼ cup rice vinegar",
+          "2 tbsp sugar",
+          "1 tsp salt"
+        ]
+      },
+      {
+        "title": "Filling",
+        "items": [
+          "2 chicken thighs",
+          "2–3 tbsp teriyaki sauce",
+          "Avocado, sliced",
+          "Cucumber, cut into strips",
+          "Nori sheets"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cook rice",
+        "text": "Rinse rice and cook with the measured water, following your rice cooker or saucepan method."
+      },
+      {
+        "title": "Season",
+        "text": "Dissolve sugar and salt in rice vinegar. Fold gently through cooked rice and let cool until comfortable to handle."
+      },
+      {
+        "title": "Cook chicken",
+        "text": "Pan-cook thighs for about 6–7 minutes per side, brushing with teriyaki sauce during the last 2 minutes. Check 75°C internally, then slice."
+      },
+      {
+        "title": "Roll",
+        "text": "Spread a thin layer of rice on nori, leaving an edge clear. Add chicken, avocado and cucumber. Roll firmly with a sushi mat, seal the edge and slice with a damp sharp knife."
+      },
+      {
+        "title": "Serve",
+        "text": "Serve promptly, or refrigerate promptly until serving."
+      }
+    ],
+    "source": "Cooking chat · 3 March 2026",
+    "notes": "Nori, avocado and cucumber amounts were not specified in the recovered chat. Cooking and rolling wording reconstructed from the retrieved summary.",
+    "timer": 420
+  },
+  {
+    "id": "porterhouse-stroganoff",
+    "title": "Porterhouse & Mushroom Stroganoff",
+    "category": "Dinner",
+    "emoji": "🥩",
+    "time": "about 30 min",
+    "servings": "2–3",
+    "subtitle": "Mushrooms · Greek yoghurt sauce",
+    "url": "recipe.html?id=porterhouse-stroganoff",
+    "tags": [
+      "beef",
+      "mushroom",
+      "yoghurt",
+      "one pot"
+    ],
+    "groups": [
+      {
+        "title": "Stroganoff",
+        "items": [
+          "400–500 g porterhouse, sliced",
+          "1 tbsp olive oil",
+          "1 onion, sliced",
+          "2–3 cups sliced mushrooms",
+          "2 garlic cloves, crushed",
+          "Dijon mustard, to taste",
+          "Worcestershire sauce, to taste",
+          "1 cup beef stock",
+          "½ cup Greek yoghurt or YoPRO",
+          "Optional: paprika",
+          "Salt and pepper, to taste"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Sear beef",
+        "text": "Sear beef quickly in hot oil in batches. Set aside."
+      },
+      {
+        "title": "Sauté",
+        "text": "Soften onion, garlic and mushrooms for 5–8 minutes."
+      },
+      {
+        "title": "Make sauce",
+        "text": "Add Dijon, Worcestershire, stock and optional paprika. Simmer for 5–10 minutes."
+      },
+      {
+        "title": "Finish gently",
+        "text": "Reduce heat and allow the sauce to stop bubbling. Stir in yoghurt, then return beef and juices for 1–2 minutes to warm through. Avoid boiling after adding yoghurt."
+      },
+      {
+        "title": "Serve",
+        "text": "Serve with your preferred rice, noodles or vegetables, prepared separately."
+      }
+    ],
+    "source": "Cooking chat · 5 August 2025",
+    "notes": "The retrieved recipe did not preserve the Dijon and Worcestershire amounts; they are marked to taste rather than guessed.",
+    "timer": 600
+  },
+  {
+    "id": "soy-milk-waffles",
+    "title": "Soy Milk Waffles",
+    "category": "Breakfast",
+    "emoji": "🧇",
+    "time": "20–30 min",
+    "servings": "6–8 waffles",
+    "subtitle": "Weighed ingredients · Crisp and golden",
+    "url": "recipe.html?id=soy-milk-waffles",
+    "tags": [
+      "soy milk",
+      "waffles",
+      "breakfast"
+    ],
+    "groups": [
+      {
+        "title": "Batter",
+        "items": [
+          "250 g plain flour",
+          "12 g baking powder",
+          "30 g caster sugar",
+          "3 g salt",
+          "2 large eggs (about 100 g without shells)",
+          "350 g soy milk",
+          "75 g melted butter, cooled slightly",
+          "5 g vanilla"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Preheat",
+        "text": "Preheat the waffle maker."
+      },
+      {
+        "title": "Mix",
+        "text": "Combine flour, baking powder, sugar and salt. Separately whisk eggs, soy milk, cooled melted butter and vanilla."
+      },
+      {
+        "title": "Rest",
+        "text": "Stir wet ingredients into dry just until combined. Leave some small lumps. Rest 5–10 minutes."
+      },
+      {
+        "title": "Cook",
+        "text": "Cook in batches until deep golden and crisp, following your waffle maker’s timing. Keep finished waffles on a rack."
+      }
+    ],
+    "source": "Cooking chat · 29 August 2026",
+    "notes": "Extra-crisp option from the chat: replace 30 g flour with 30 g cornflour.",
+    "timer": 600
+  },
+  {
+    "id": "shakshuka-base",
+    "title": "Tomato & Capsicum Shakshuka",
+    "category": "Breakfast",
+    "emoji": "🍳",
+    "time": "30–45 min",
+    "servings": "1.5 kg tomato base",
+    "subtitle": "Tomato · Capsicum · Eggs",
+    "url": "recipe.html?id=shakshuka-base",
+    "tags": [
+      "eggs",
+      "tomato",
+      "capsicum"
+    ],
+    "groups": [
+      {
+        "title": "Base",
+        "items": [
+          "1.5 kg tomatoes, chopped",
+          "1 onion, diced",
+          "1 red capsicum, diced",
+          "4 garlic cloves, crushed",
+          "2 tbsp olive oil",
+          "2 tsp smoked paprika",
+          "1 tsp cumin",
+          "½–1 tsp chilli",
+          "1 tbsp tomato paste"
+        ]
+      },
+      {
+        "title": "Eggs",
+        "items": [
+          "2–3 eggs per serving"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Sauté",
+        "text": "Soften onion and capsicum in oil. Add garlic, spices and tomato paste and stir briefly."
+      },
+      {
+        "title": "Reduce",
+        "text": "Add chopped tomatoes and simmer for 20–30 minutes until thick."
+      },
+      {
+        "title": "Add eggs",
+        "text": "For each serving, use a portion of the sauce and make wells for 2–3 eggs. Cover and cook gently for about 5–8 minutes, or until the eggs are cooked to your preference."
+      }
+    ],
+    "source": "Cooking chat · 26 November 2025",
+    "notes": "Recovered tomato-base batch. Portion unused sauce separately before adding eggs.",
+    "timer": 480
+  },
+  {
+    "id": "wholemeal-sourdough",
+    "title": "Wholemeal Sourdough in the Cloche",
+    "category": "Baking",
+    "emoji": "🍞",
+    "time": "Overnight + about 50 min baking",
+    "servings": "1 loaf",
+    "subtitle": "Wholemeal flour · Overnight ferment · Cloche",
+    "url": "recipe.html?id=wholemeal-sourdough",
+    "tags": [
+      "bread",
+      "wholemeal",
+      "starter",
+      "cloche"
+    ],
+    "groups": [
+      {
+        "title": "Dough",
+        "items": [
+          "150 g active starter (100% hydration)",
+          "257 g water",
+          "388 g Coles wholemeal flour",
+          "8 g salt"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Autolyse",
+        "text": "Mix flour and water until no dry patches remain. Cover and rest for 30–45 minutes."
+      },
+      {
+        "title": "Mix dough",
+        "text": "Work in the active starter and salt until evenly combined."
+      },
+      {
+        "title": "Strengthen",
+        "text": "Do four sets of stretch and folds, about 30 minutes apart."
+      },
+      {
+        "title": "Bulk ferment",
+        "text": "Keep covered until the dough has risen about 30–50% and feels aerated. The chat estimated another 1–3 hours after folds, but temperature and dough activity determine timing."
+      },
+      {
+        "title": "Shape and refrigerate",
+        "text": "Shape a boule and place seam-side up in a well-floured banneton or lined bowl. Cover and refrigerate for 8–16 hours."
+      },
+      {
+        "title": "Preheat",
+        "text": "Preheat the assembled cloche at 250°C for 45–60 minutes on a lower-middle shelf. Allow the full hour for the under-bench oven."
+      },
+      {
+        "title": "Score and bake",
+        "text": "Turn out the cold dough onto baking paper, score briskly, and load the hot cloche. Bake covered at 250°C for 20–25 minutes, then uncovered at 220–230°C for 20–25 minutes. No added ice or water is needed in the cloche. Aim for 96–99°C internally."
+      },
+      {
+        "title": "Cool",
+        "text": "Cool on a rack for 1–2 hours before slicing."
+      }
+    ],
+    "source": "Sourdough chat · 21–22 August 2026",
+    "notes": "Your recorded dough quantities, retained exactly. Fermentation time is a guide; watch the dough.",
+    "timer": 1500
+  },
+  {
+    "id": "smoked-pulled-pork-tacos",
+    "title": "Smoked Pulled Pork for Tacos",
+    "category": "Smoker",
+    "emoji": "🌮",
+    "time": "about 6–8 hours + rest",
+    "servings": "1.8–2.3 kg pork batch",
+    "subtitle": "Pellet smoker · Taco night",
+    "url": "recipe.html?id=smoked-pulled-pork-tacos",
+    "tags": [
+      "pork",
+      "pellet smoker",
+      "tacos"
+    ],
+    "groups": [
+      {
+        "title": "Pork",
+        "items": [
+          "1.8–2.3 kg pork shoulder (original: 4–5 lb)",
+          "Mustard, enough for a thin binder",
+          "Apple juice or cider vinegar, for spritzing"
+        ]
+      },
+      {
+        "title": "Rub",
+        "items": [
+          "2 tbsp brown sugar",
+          "1 tbsp smoked paprika",
+          "1 tbsp salt",
+          "2 tsp black pepper",
+          "2 tsp garlic powder",
+          "2 tsp onion powder",
+          "1 tsp cumin",
+          "1 tsp chilli powder",
+          "Optional: ½ tsp cayenne"
+        ]
+      },
+      {
+        "title": "Serve",
+        "items": [
+          "Corn tortillas",
+          "Pickled onion",
+          "Coriander",
+          "Lime",
+          "Optional: avocado crema or chipotle mayo",
+          "Optional: cotija cheese"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Season",
+        "text": "Coat pork lightly with mustard, then rub. Heat the smoker to about 107°C (the original 225°F), using apple, hickory or pecan pellets."
+      },
+      {
+        "title": "Smoke",
+        "text": "Smoke unwrapped to about 71°C internally, typically 4–5 hours. Spritz lightly every 60–90 minutes if needed."
+      },
+      {
+        "title": "Wrap and finish",
+        "text": "Wrap and continue cooking until about 95°C internally and probe tender, typically another 2–3 hours. Temperature is a guide; the probe should slide in with little resistance."
+      },
+      {
+        "title": "Rest and shred",
+        "text": "Rest wrapped for 30–60 minutes, then shred and mix through the juices."
+      },
+      {
+        "title": "Build tacos",
+        "text": "Serve in corn tortillas with the toppings."
+      }
+    ],
+    "source": "Cooking chat · 6 May 2025",
+    "notes": "Original Fahrenheit temperatures converted to Celsius for the app.",
+    "timer": 3600
+  },
+  {
+    "id": "smoked-chicken-breast",
+    "title": "Smoked Chicken Breast",
+    "category": "Smoker",
+    "emoji": "🍗",
+    "time": "2–4 hour brine + 1½–2 hour smoke",
+    "servings": "3 large breasts (about 1.1 kg)",
+    "subtitle": "Brined · Gently smoked",
+    "url": "recipe.html?id=smoked-chicken-breast",
+    "tags": [
+      "chicken",
+      "pellet smoker",
+      "meal prep"
+    ],
+    "groups": [
+      {
+        "title": "Chicken & brine",
+        "items": [
+          "3 large chicken breasts (about 1.1 kg total)",
+          "1.5 L water",
+          "90 g salt",
+          "Optional: 3 tbsp sugar",
+          "Optional: brine aromatics"
+        ]
+      },
+      {
+        "title": "Rub",
+        "items": [
+          "1½ tsp smoked paprika",
+          "1½ tsp garlic powder",
+          "1½ tsp onion powder",
+          "¾ tsp cumin",
+          "¾ tsp salt (reduce or omit if brined chicken is salty)",
+          "¾ tsp black pepper"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Brine",
+        "text": "Dissolve salt and optional sugar in water, cool completely if warmed, add chicken and refrigerate for 2–4 hours."
+      },
+      {
+        "title": "Dry and season",
+        "text": "Drain and pat dry. Apply the rub. Do not wash raw chicken under the tap."
+      },
+      {
+        "title": "Smoke",
+        "text": "Smoke at 120°C for about 1½–2 hours. Check the thickest part with a thermometer; use 75°C as the app’s conservative chicken endpoint."
+      },
+      {
+        "title": "Rest",
+        "text": "Rest for 5–10 minutes before slicing."
+      }
+    ],
+    "source": "Cooking chat · 31 May 2025",
+    "notes": "Recovered 1.1 kg batch. Method wording updated to avoid rinsing raw poultry; temperature check retained.",
+    "timer": 600
+  },
+  {
+    "id": "smoked-chuck-ribs",
+    "title": "Smoked Beef Chuck & Ribs",
+    "category": "Smoker",
+    "emoji": "🥩",
+    "time": "several hours + resting",
+    "servings": "1.4 kg chuck + 1 kg ribs",
+    "subtitle": "One smoker session · Two beef cuts",
+    "url": "recipe.html?id=smoked-chuck-ribs",
+    "tags": [
+      "beef",
+      "chuck",
+      "ribs",
+      "pellet smoker"
+    ],
+    "groups": [
+      {
+        "title": "Beef",
+        "items": [
+          "1.4 kg beef chuck",
+          "1 kg beef ribs"
+        ]
+      },
+      {
+        "title": "Shared rub",
+        "items": [
+          "1 tbsp coarse salt",
+          "1 tbsp cracked black pepper",
+          "2 tsp smoked paprika",
+          "1 tsp garlic powder",
+          "1 tsp onion powder",
+          "1 tsp cumin",
+          "Optional: ½ tsp chilli or cayenne"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepare",
+        "text": "Heat the smoker to 120°C. Mix rub and coat the chuck and ribs."
+      },
+      {
+        "title": "Smoke",
+        "text": "Smoke together, checking each cut separately."
+      },
+      {
+        "title": "Chuck",
+        "text": "Wrap the chuck when it reaches about 70–74°C. Continue to around 93–96°C and probe tender."
+      },
+      {
+        "title": "Ribs",
+        "text": "Ribs were estimated at 4½–6 hours. Wrap if desired and cook until probe tender; do not rely on the clock alone."
+      },
+      {
+        "title": "Rest",
+        "text": "Rest the cooked meat before slicing or pulling. Resting duration was not specified in the recovered chat."
+      }
+    ],
+    "source": "Cooking chat · 17 May 2025",
+    "notes": "One smoker session with two cuts. Start checking tenderness before the estimated finishing time.",
+    "timer": 3600
+  },
+  {
+    "id": "freezer-tomato-base",
+    "title": "Freezer King Tomato & Vegetable Base",
+    "category": "Sauces",
+    "emoji": "🍅",
+    "time": "about 1 hour",
+    "servings": "2 kg tomato batch",
+    "subtitle": "Vegetable-rich sauce · Batch and freeze",
+    "url": "recipe.html?id=freezer-tomato-base",
+    "tags": [
+      "tomato",
+      "vegetables",
+      "freezer",
+      "sauce"
+    ],
+    "groups": [
+      {
+        "title": "Base",
+        "items": [
+          "2 kg tomatoes, chopped",
+          "2 onions, diced",
+          "2 carrots, grated",
+          "2 celery sticks, diced",
+          "300–400 g mushrooms, finely chopped",
+          "4–5 garlic cloves, crushed",
+          "2 tbsp olive oil",
+          "2 tbsp tomato paste",
+          "Oregano, basil and thyme, to taste",
+          "Bay leaves",
+          "Salt and pepper, to taste"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Soften vegetables",
+        "text": "Sauté onion, carrot and celery in oil until softened."
+      },
+      {
+        "title": "Cook mushrooms",
+        "text": "Dry-sauté mushrooms separately until their moisture cooks off."
+      },
+      {
+        "title": "Build sauce",
+        "text": "Add mushrooms, garlic and tomato paste to the vegetables. Stir briefly, then add tomatoes and herbs."
+      },
+      {
+        "title": "Reduce",
+        "text": "Simmer uncovered for 45–60 minutes until rich and thick. Remove bay leaves and season to taste."
+      },
+      {
+        "title": "Portion",
+        "text": "Cool promptly, divide into portions and freeze. Use as a vegetable-rich base for later meals."
+      }
+    ],
+    "source": "Cooking chat · 26 November 2025",
+    "notes": "Herb and bay-leaf quantities were not recorded in the recovered summary.",
+    "timer": 2700
+  },
+  {
+    "id": "creami-chocolate-protein",
+    "title": "Chocolate Protein",
+    "category": "CREAMi",
+    "emoji": "🍫",
+    "time": "24-hour freeze + processing",
+    "servings": "1 tub",
+    "subtitle": "Soy milk · Lite ice cream",
+    "url": "recipe.html?id=creami-chocolate-protein",
+    "tags": [
+      "soy milk",
+      "frozen dessert",
+      "Chocolate Protein"
+    ],
+    "groups": [
+      {
+        "title": "Base",
+        "items": [
+          "500 g Vitasoy Protein Plus soy milk",
+          "30 g chocolate protein powder",
+          "15 g cocoa",
+          "25 g maple syrup",
+          "5 g vanilla",
+          "Pinch of salt"
+        ]
+      },
+      {
+        "title": "Optional after processing",
+        "items": [
+          "Fruit, dark chocolate, crushed biscuit, nuts or a small spoonful of peanut butter"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Blend",
+        "text": "Blend all base ingredients until smooth."
+      },
+      {
+        "title": "Freeze",
+        "text": "Pour into your machine-compatible tub without exceeding MAX FILL. Freeze level for 24 hours."
+      },
+      {
+        "title": "Process",
+        "text": "Use LITE ICE CREAM if available on your model. Follow your machine instructions for the equivalent program."
+      },
+      {
+        "title": "Adjust texture",
+        "text": "If powdery after the first spin, make a small hole, add 15–30 g soy milk and RE-SPIN. Add any mix-ins after processing."
+      }
+    ],
+    "source": "Ninja_Creami_Slushi_Healthy_Recipes.pdf · 29 August 2026",
+    "notes": "Original sheet uses 700 mL tubs. Check your own tub size and MAX FILL; divide the base if needed.",
+    "timer": 300
+  },
+  {
+    "id": "creami-strawberry-cheesecake",
+    "title": "Strawberry Cheesecake",
+    "category": "CREAMi",
+    "emoji": "🍓",
+    "time": "24-hour freeze + processing",
+    "servings": "1 tub",
+    "subtitle": "Soy milk · Lite ice cream",
+    "url": "recipe.html?id=creami-strawberry-cheesecake",
+    "tags": [
+      "soy milk",
+      "frozen dessert",
+      "Strawberry Cheesecake"
+    ],
+    "groups": [
+      {
+        "title": "Base",
+        "items": [
+          "380 g Vitasoy Protein Plus soy milk",
+          "160 g strawberries",
+          "100 g Greek yoghurt",
+          "20 g cream cheese",
+          "20 g honey or maple syrup",
+          "5 g vanilla"
+        ]
+      },
+      {
+        "title": "Optional after processing",
+        "items": [
+          "Fruit, dark chocolate, crushed biscuit, nuts or a small spoonful of peanut butter"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Blend",
+        "text": "Blend all base ingredients until smooth."
+      },
+      {
+        "title": "Freeze",
+        "text": "Pour into your machine-compatible tub without exceeding MAX FILL. Freeze level for 24 hours."
+      },
+      {
+        "title": "Process",
+        "text": "Use LITE ICE CREAM if available on your model. Follow your machine instructions for the equivalent program."
+      },
+      {
+        "title": "Adjust texture",
+        "text": "If powdery after the first spin, make a small hole, add 15–30 g soy milk and RE-SPIN. Add any mix-ins after processing."
+      }
+    ],
+    "source": "Ninja_Creami_Slushi_Healthy_Recipes.pdf · 29 August 2026",
+    "notes": "Original sheet uses 700 mL tubs. Check your own tub size and MAX FILL; divide the base if needed.",
+    "timer": 300
+  },
+  {
+    "id": "creami-banana-cream",
+    "title": "Banana Cream",
+    "category": "CREAMi",
+    "emoji": "🍌",
+    "time": "24-hour freeze + processing",
+    "servings": "1 tub",
+    "subtitle": "Soy milk · Lite ice cream",
+    "url": "recipe.html?id=creami-banana-cream",
+    "tags": [
+      "soy milk",
+      "frozen dessert",
+      "Banana Cream"
+    ],
+    "groups": [
+      {
+        "title": "Base",
+        "items": [
+          "400 g Vitasoy Protein Plus soy milk",
+          "130 g ripe banana",
+          "100 g Greek yoghurt",
+          "15 g maple syrup",
+          "5 g vanilla",
+          "Pinch of cinnamon"
+        ]
+      },
+      {
+        "title": "Optional after processing",
+        "items": [
+          "Fruit, dark chocolate, crushed biscuit, nuts or a small spoonful of peanut butter"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Blend",
+        "text": "Blend all base ingredients until smooth."
+      },
+      {
+        "title": "Freeze",
+        "text": "Pour into your machine-compatible tub without exceeding MAX FILL. Freeze level for 24 hours."
+      },
+      {
+        "title": "Process",
+        "text": "Use LITE ICE CREAM if available on your model. Follow your machine instructions for the equivalent program."
+      },
+      {
+        "title": "Adjust texture",
+        "text": "If powdery after the first spin, make a small hole, add 15–30 g soy milk and RE-SPIN. Add any mix-ins after processing."
+      }
+    ],
+    "source": "Ninja_Creami_Slushi_Healthy_Recipes.pdf · 29 August 2026",
+    "notes": "Original sheet uses 700 mL tubs. Check your own tub size and MAX FILL; divide the base if needed.",
+    "timer": 300
+  },
+  {
+    "id": "creami-mocha-protein",
+    "title": "Mocha Protein",
+    "category": "CREAMi",
+    "emoji": "☕",
+    "time": "24-hour freeze + processing",
+    "servings": "1 tub",
+    "subtitle": "Soy milk · Lite ice cream",
+    "url": "recipe.html?id=creami-mocha-protein",
+    "tags": [
+      "soy milk",
+      "frozen dessert",
+      "Mocha Protein"
+    ],
+    "groups": [
+      {
+        "title": "Base",
+        "items": [
+          "440 g Vitasoy Protein Plus soy milk",
+          "60 g cooled espresso",
+          "30 g chocolate protein powder",
+          "10 g cocoa",
+          "20 g maple syrup",
+          "5 g vanilla"
+        ]
+      },
+      {
+        "title": "Optional after processing",
+        "items": [
+          "Fruit, dark chocolate, crushed biscuit, nuts or a small spoonful of peanut butter"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Blend",
+        "text": "Blend all base ingredients until smooth."
+      },
+      {
+        "title": "Freeze",
+        "text": "Pour into your machine-compatible tub without exceeding MAX FILL. Freeze level for 24 hours."
+      },
+      {
+        "title": "Process",
+        "text": "Use LITE ICE CREAM if available on your model. Follow your machine instructions for the equivalent program."
+      },
+      {
+        "title": "Adjust texture",
+        "text": "If powdery after the first spin, make a small hole, add 15–30 g soy milk and RE-SPIN. Add any mix-ins after processing."
+      }
+    ],
+    "source": "Ninja_Creami_Slushi_Healthy_Recipes.pdf · 29 August 2026",
+    "notes": "Original sheet uses 700 mL tubs. Check your own tub size and MAX FILL; divide the base if needed.",
+    "timer": 300
+  },
+  {
+    "id": "creami-chocolate-pb",
+    "title": "Chocolate Peanut Butter",
+    "category": "CREAMi",
+    "emoji": "🥜",
+    "time": "24-hour freeze + processing",
+    "servings": "1 tub",
+    "subtitle": "Soy milk · Lite ice cream",
+    "url": "recipe.html?id=creami-chocolate-pb",
+    "tags": [
+      "soy milk",
+      "frozen dessert",
+      "Chocolate Peanut Butter"
+    ],
+    "groups": [
+      {
+        "title": "Base",
+        "items": [
+          "480 g Vitasoy Protein Plus soy milk",
+          "30 g chocolate protein powder",
+          "15 g cocoa",
+          "25 g powdered peanut butter",
+          "20 g maple syrup",
+          "Pinch of salt"
+        ]
+      },
+      {
+        "title": "Optional after processing",
+        "items": [
+          "Fruit, dark chocolate, crushed biscuit, nuts or a small spoonful of peanut butter"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Blend",
+        "text": "Blend all base ingredients until smooth."
+      },
+      {
+        "title": "Freeze",
+        "text": "Pour into your machine-compatible tub without exceeding MAX FILL. Freeze level for 24 hours."
+      },
+      {
+        "title": "Process",
+        "text": "Use LITE ICE CREAM if available on your model. Follow your machine instructions for the equivalent program."
+      },
+      {
+        "title": "Adjust texture",
+        "text": "If powdery after the first spin, make a small hole, add 15–30 g soy milk and RE-SPIN. Add any mix-ins after processing."
+      }
+    ],
+    "source": "Ninja_Creami_Slushi_Healthy_Recipes.pdf · 29 August 2026",
+    "notes": "Original sheet uses 700 mL tubs. Check your own tub size and MAX FILL; divide the base if needed.",
+    "timer": 300
+  },
+  {
+    "id": "creami-berry-yoghurt",
+    "title": "Berry Yoghurt",
+    "category": "CREAMi",
+    "emoji": "🫐",
+    "time": "24-hour freeze + processing",
+    "servings": "1 tub",
+    "subtitle": "Soy milk · Frozen yoghurt",
+    "url": "recipe.html?id=creami-berry-yoghurt",
+    "tags": [
+      "soy milk",
+      "frozen dessert",
+      "Berry Yoghurt"
+    ],
+    "groups": [
+      {
+        "title": "Base",
+        "items": [
+          "350 g Vitasoy Protein Plus soy milk",
+          "180 g mixed berries",
+          "120 g Greek yoghurt",
+          "20 g honey",
+          "5 g vanilla"
+        ]
+      },
+      {
+        "title": "Optional after processing",
+        "items": [
+          "Fruit, dark chocolate, crushed biscuit, nuts or a small spoonful of peanut butter"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Blend",
+        "text": "Blend all base ingredients until smooth."
+      },
+      {
+        "title": "Freeze",
+        "text": "Pour into your machine-compatible tub without exceeding MAX FILL. Freeze level for 24 hours."
+      },
+      {
+        "title": "Process",
+        "text": "Use FROZEN YOGHURT if available on your model. Follow your machine instructions for the equivalent program."
+      },
+      {
+        "title": "Adjust texture",
+        "text": "If powdery after the first spin, make a small hole, add 15–30 g soy milk and RE-SPIN. Add any mix-ins after processing."
+      }
+    ],
+    "source": "Ninja_Creami_Slushi_Healthy_Recipes.pdf · 29 August 2026",
+    "notes": "Original sheet uses 700 mL tubs. Check your own tub size and MAX FILL; divide the base if needed.",
+    "timer": 300
+  },
+  {
+    "id": "creami-mango-yoghurt",
+    "title": "Mango Yoghurt",
+    "category": "CREAMi",
+    "emoji": "🥭",
+    "time": "24-hour freeze + processing",
+    "servings": "1 tub",
+    "subtitle": "Soy milk · Frozen yoghurt",
+    "url": "recipe.html?id=creami-mango-yoghurt",
+    "tags": [
+      "soy milk",
+      "frozen dessert",
+      "Mango Yoghurt"
+    ],
+    "groups": [
+      {
+        "title": "Base",
+        "items": [
+          "300 g Vitasoy Protein Plus soy milk",
+          "220 g mango",
+          "130 g Greek yoghurt",
+          "15 g honey",
+          "Squeeze of lime"
+        ]
+      },
+      {
+        "title": "Optional after processing",
+        "items": [
+          "Fruit, dark chocolate, crushed biscuit, nuts or a small spoonful of peanut butter"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Blend",
+        "text": "Blend all base ingredients until smooth."
+      },
+      {
+        "title": "Freeze",
+        "text": "Pour into your machine-compatible tub without exceeding MAX FILL. Freeze level for 24 hours."
+      },
+      {
+        "title": "Process",
+        "text": "Use FROZEN YOGHURT if available on your model. Follow your machine instructions for the equivalent program."
+      },
+      {
+        "title": "Adjust texture",
+        "text": "If powdery after the first spin, make a small hole, add 15–30 g soy milk and RE-SPIN. Add any mix-ins after processing."
+      }
+    ],
+    "source": "Ninja_Creami_Slushi_Healthy_Recipes.pdf · 29 August 2026",
+    "notes": "Original sheet uses 700 mL tubs. Check your own tub size and MAX FILL; divide the base if needed.",
+    "timer": 300
+  },
+  {
+    "id": "creami-vanilla-protein",
+    "title": "Vanilla Protein",
+    "category": "CREAMi",
+    "emoji": "🍨",
+    "time": "24-hour freeze + processing",
+    "servings": "1 tub",
+    "subtitle": "Soy milk · Lite ice cream",
+    "url": "recipe.html?id=creami-vanilla-protein",
+    "tags": [
+      "soy milk",
+      "frozen dessert",
+      "Vanilla Protein"
+    ],
+    "groups": [
+      {
+        "title": "Base",
+        "items": [
+          "500 g Vitasoy Protein Plus soy milk",
+          "30 g vanilla protein powder",
+          "100 g Greek yoghurt",
+          "20 g maple syrup",
+          "7 g vanilla",
+          "Pinch of salt"
+        ]
+      },
+      {
+        "title": "Optional after processing",
+        "items": [
+          "Fruit, dark chocolate, crushed biscuit, nuts or a small spoonful of peanut butter"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Blend",
+        "text": "Blend all base ingredients until smooth."
+      },
+      {
+        "title": "Freeze",
+        "text": "Pour into your machine-compatible tub without exceeding MAX FILL. Freeze level for 24 hours."
+      },
+      {
+        "title": "Process",
+        "text": "Use LITE ICE CREAM if available on your model. Follow your machine instructions for the equivalent program."
+      },
+      {
+        "title": "Adjust texture",
+        "text": "If powdery after the first spin, make a small hole, add 15–30 g soy milk and RE-SPIN. Add any mix-ins after processing."
+      }
+    ],
+    "source": "Ninja_Creami_Slushi_Healthy_Recipes.pdf · 29 August 2026",
+    "notes": "Original sheet uses 700 mL tubs. Check your own tub size and MAX FILL; divide the base if needed.",
+    "timer": 300
+  },
+  {
+    "id": "slushi-watermelon-lime",
+    "title": "Watermelon Lime",
+    "category": "SLUSHi",
+    "emoji": "🍉",
+    "time": "Blend + chill + machine cycle",
+    "servings": "about 1 L",
+    "subtitle": "FS301ANZ · Fruit slush",
+    "url": "recipe.html?id=slushi-watermelon-lime",
+    "tags": [
+      "frozen drink",
+      "Watermelon Lime",
+      "fruit"
+    ],
+    "groups": [
+      {
+        "title": "Mixture",
+        "items": [
+          "750 g seedless watermelon",
+          "180 g cold water",
+          "50 g lime juice",
+          "10–20 g sugar if needed"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepare",
+        "text": "Blend very smooth and strain. Chill the mixture."
+      },
+      {
+        "title": "Check sugar and fill",
+        "text": "Follow your FS301ANZ manual for sugar requirements. The original sheet targets at least 5% total sugar, including fruit, juice and soy milk. Keep between the machine’s MIN and MAX fill marks (475 mL–1.89 L)."
+      },
+      {
+        "title": "Process",
+        "text": "Pour the cold, smooth mixture into the machine. Do not put ice or solid fruit directly into the vessel. Use SLUSH."
+      },
+      {
+        "title": "Adjust",
+        "text": "If the mixture is too low in sugar to freeze, correct the sugar balance rather than repeatedly lowering the temperature."
+      }
+    ],
+    "source": "Ninja_Creami_Slushi_Healthy_Recipes.pdf · 29 August 2026",
+    "notes": "FS301ANZ recipe from your original sheet. Use the programme names available on your machine.",
+    "timer": 300
+  },
+  {
+    "id": "slushi-strawberry-lemonade",
+    "title": "Strawberry Lemonade",
+    "category": "SLUSHi",
+    "emoji": "🍓",
+    "time": "Blend + chill + machine cycle",
+    "servings": "about 1 L",
+    "subtitle": "FS301ANZ · Fruit slush",
+    "url": "recipe.html?id=slushi-strawberry-lemonade",
+    "tags": [
+      "frozen drink",
+      "Strawberry Lemonade",
+      "fruit"
+    ],
+    "groups": [
+      {
+        "title": "Mixture",
+        "items": [
+          "300 g strawberries",
+          "550 g cold water",
+          "70 g lemon juice",
+          "60 g sugar",
+          "Pinch of salt"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepare",
+        "text": "Blend and strain. Chill the mixture."
+      },
+      {
+        "title": "Check sugar and fill",
+        "text": "Follow your FS301ANZ manual for sugar requirements. The original sheet targets at least 5% total sugar, including fruit, juice and soy milk. Keep between the machine’s MIN and MAX fill marks (475 mL–1.89 L)."
+      },
+      {
+        "title": "Process",
+        "text": "Pour the cold, smooth mixture into the machine. Do not put ice or solid fruit directly into the vessel. Use SLUSH."
+      },
+      {
+        "title": "Adjust",
+        "text": "If the mixture is too low in sugar to freeze, correct the sugar balance rather than repeatedly lowering the temperature."
+      }
+    ],
+    "source": "Ninja_Creami_Slushi_Healthy_Recipes.pdf · 29 August 2026",
+    "notes": "FS301ANZ recipe from your original sheet. Use the programme names available on your machine.",
+    "timer": 300
+  },
+  {
+    "id": "slushi-mango-passionfruit",
+    "title": "Mango Passionfruit",
+    "category": "SLUSHi",
+    "emoji": "🥭",
+    "time": "Blend + chill + machine cycle",
+    "servings": "about 1 L",
+    "subtitle": "FS301ANZ · Fruit slush",
+    "url": "recipe.html?id=slushi-mango-passionfruit",
+    "tags": [
+      "frozen drink",
+      "Mango Passionfruit",
+      "fruit"
+    ],
+    "groups": [
+      {
+        "title": "Mixture",
+        "items": [
+          "300 g ripe mango",
+          "550 g cold water",
+          "100 g passionfruit pulp",
+          "40–50 g sugar",
+          "30 g lime juice"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepare",
+        "text": "Blend smooth and strain out seeds. Chill the mixture."
+      },
+      {
+        "title": "Check sugar and fill",
+        "text": "Follow your FS301ANZ manual for sugar requirements. The original sheet targets at least 5% total sugar, including fruit, juice and soy milk. Keep between the machine’s MIN and MAX fill marks (475 mL–1.89 L)."
+      },
+      {
+        "title": "Process",
+        "text": "Pour the cold, smooth mixture into the machine. Do not put ice or solid fruit directly into the vessel. Use SLUSH or FROZEN JUICE."
+      },
+      {
+        "title": "Adjust",
+        "text": "If the mixture is too low in sugar to freeze, correct the sugar balance rather than repeatedly lowering the temperature."
+      }
+    ],
+    "source": "Ninja_Creami_Slushi_Healthy_Recipes.pdf · 29 August 2026",
+    "notes": "FS301ANZ recipe from your original sheet. Use the programme names available on your machine.",
+    "timer": 300
+  },
+  {
+    "id": "slushi-mango-orange",
+    "title": "Mango Orange",
+    "category": "SLUSHi",
+    "emoji": "🍊",
+    "time": "Blend + chill + machine cycle",
+    "servings": "about 1 L",
+    "subtitle": "FS301ANZ · Fruit slush",
+    "url": "recipe.html?id=slushi-mango-orange",
+    "tags": [
+      "frozen drink",
+      "Mango Orange",
+      "fruit"
+    ],
+    "groups": [
+      {
+        "title": "Mixture",
+        "items": [
+          "300 g mango",
+          "400 g orange juice",
+          "300 g cold water",
+          "20 g lime juice"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepare",
+        "text": "Blend and strain if needed. Chill the mixture."
+      },
+      {
+        "title": "Check sugar and fill",
+        "text": "Follow your FS301ANZ manual for sugar requirements. The original sheet targets at least 5% total sugar, including fruit, juice and soy milk. Keep between the machine’s MIN and MAX fill marks (475 mL–1.89 L)."
+      },
+      {
+        "title": "Process",
+        "text": "Pour the cold, smooth mixture into the machine. Do not put ice or solid fruit directly into the vessel. Use FROZEN JUICE."
+      },
+      {
+        "title": "Adjust",
+        "text": "If the mixture is too low in sugar to freeze, correct the sugar balance rather than repeatedly lowering the temperature."
+      }
+    ],
+    "source": "Ninja_Creami_Slushi_Healthy_Recipes.pdf · 29 August 2026",
+    "notes": "FS301ANZ recipe from your original sheet. Use the programme names available on your machine.",
+    "timer": 300
+  },
+  {
+    "id": "slushi-protein-iced-coffee",
+    "title": "Protein Iced Coffee",
+    "category": "SLUSHi",
+    "emoji": "☕",
+    "time": "Blend + chill + machine cycle",
+    "servings": "about 1 L",
+    "subtitle": "FS301ANZ · Soy milk & coffee",
+    "url": "recipe.html?id=slushi-protein-iced-coffee",
+    "tags": [
+      "frozen drink",
+      "Protein Iced Coffee",
+      "soy milk"
+    ],
+    "groups": [
+      {
+        "title": "Mixture",
+        "items": [
+          "700 g Vitasoy Protein Plus soy milk",
+          "100 g cooled strong espresso",
+          "150 g cold water",
+          "40 g maple syrup",
+          "5 g vanilla",
+          "Pinch of salt"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepare",
+        "text": "Whisk or blend until uniform. Chill the mixture."
+      },
+      {
+        "title": "Check sugar and fill",
+        "text": "Follow your FS301ANZ manual for sugar requirements. The original sheet targets at least 5% total sugar, including fruit, juice and soy milk. Keep between the machine’s MIN and MAX fill marks (475 mL–1.89 L)."
+      },
+      {
+        "title": "Process",
+        "text": "Pour the cold, smooth mixture into the machine. Do not put ice or solid fruit directly into the vessel. Use FRAPPE."
+      },
+      {
+        "title": "Adjust",
+        "text": "If the mixture is too low in sugar to freeze, correct the sugar balance rather than repeatedly lowering the temperature."
+      }
+    ],
+    "source": "Ninja_Creami_Slushi_Healthy_Recipes.pdf · 29 August 2026",
+    "notes": "FS301ANZ recipe from your original sheet. Use the programme names available on your machine.",
+    "timer": 300
+  },
+  {
+    "id": "slushi-frozen-chocolate-soy",
+    "title": "Frozen Chocolate Soy Milk",
+    "category": "SLUSHi",
+    "emoji": "🍫",
+    "time": "Blend + chill + machine cycle",
+    "servings": "about 1 L",
+    "subtitle": "FS301ANZ · Chocolate soy milk",
+    "url": "recipe.html?id=slushi-frozen-chocolate-soy",
+    "tags": [
+      "frozen drink",
+      "Frozen Chocolate Soy Milk",
+      "soy milk"
+    ],
+    "groups": [
+      {
+        "title": "Mixture",
+        "items": [
+          "800 g Vitasoy Protein Plus soy milk",
+          "20 g cocoa",
+          "50 g sugar",
+          "5 g vanilla",
+          "Pinch of salt"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepare",
+        "text": "Blend until cocoa and sugar are fully dissolved. Chill the mixture."
+      },
+      {
+        "title": "Check sugar and fill",
+        "text": "Follow your FS301ANZ manual for sugar requirements. The original sheet targets at least 5% total sugar, including fruit, juice and soy milk. Keep between the machine’s MIN and MAX fill marks (475 mL–1.89 L)."
+      },
+      {
+        "title": "Process",
+        "text": "Pour the cold, smooth mixture into the machine. Do not put ice or solid fruit directly into the vessel. Use MILKSHAKE or FRAPPE."
+      },
+      {
+        "title": "Adjust",
+        "text": "If the mixture is too low in sugar to freeze, correct the sugar balance rather than repeatedly lowering the temperature."
+      }
+    ],
+    "source": "Ninja_Creami_Slushi_Healthy_Recipes.pdf · 29 August 2026",
+    "notes": "FS301ANZ recipe from your original sheet. Use the programme names available on your machine.",
+    "timer": 300
+  },
+  {
+    "id": "slushi-pineapple-lime",
+    "title": "Pineapple Lime",
+    "category": "SLUSHi",
+    "emoji": "🍍",
+    "time": "Blend + chill + machine cycle",
+    "servings": "about 1 L",
+    "subtitle": "FS301ANZ · Fruit slush",
+    "url": "recipe.html?id=slushi-pineapple-lime",
+    "tags": [
+      "frozen drink",
+      "Pineapple Lime",
+      "fruit"
+    ],
+    "groups": [
+      {
+        "title": "Mixture",
+        "items": [
+          "500 g pineapple juice",
+          "350 g cold water",
+          "100 g pineapple, blended",
+          "40 g lime juice"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepare",
+        "text": "Blend and strain. Chill the mixture."
+      },
+      {
+        "title": "Check sugar and fill",
+        "text": "Follow your FS301ANZ manual for sugar requirements. The original sheet targets at least 5% total sugar, including fruit, juice and soy milk. Keep between the machine’s MIN and MAX fill marks (475 mL–1.89 L)."
+      },
+      {
+        "title": "Process",
+        "text": "Pour the cold, smooth mixture into the machine. Do not put ice or solid fruit directly into the vessel. Use FROZEN JUICE."
+      },
+      {
+        "title": "Adjust",
+        "text": "If the mixture is too low in sugar to freeze, correct the sugar balance rather than repeatedly lowering the temperature."
+      }
+    ],
+    "source": "Ninja_Creami_Slushi_Healthy_Recipes.pdf · 29 August 2026",
+    "notes": "FS301ANZ recipe from your original sheet. Use the programme names available on your machine.",
+    "timer": 300
+  },
+  {
+    "id": "slushi-strawberry-watermelon",
+    "title": "Strawberry Watermelon",
+    "category": "SLUSHi",
+    "emoji": "🍓",
+    "time": "Blend + chill + machine cycle",
+    "servings": "about 1 L",
+    "subtitle": "FS301ANZ · Fruit slush",
+    "url": "recipe.html?id=slushi-strawberry-watermelon",
+    "tags": [
+      "frozen drink",
+      "Strawberry Watermelon",
+      "fruit"
+    ],
+    "groups": [
+      {
+        "title": "Mixture",
+        "items": [
+          "500 g watermelon",
+          "250 g strawberries",
+          "200 g cold water",
+          "40 g lime juice",
+          "20–30 g sugar if needed"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepare",
+        "text": "Blend and strain. Chill the mixture."
+      },
+      {
+        "title": "Check sugar and fill",
+        "text": "Follow your FS301ANZ manual for sugar requirements. The original sheet targets at least 5% total sugar, including fruit, juice and soy milk. Keep between the machine’s MIN and MAX fill marks (475 mL–1.89 L)."
+      },
+      {
+        "title": "Process",
+        "text": "Pour the cold, smooth mixture into the machine. Do not put ice or solid fruit directly into the vessel. Use SLUSH."
+      },
+      {
+        "title": "Adjust",
+        "text": "If the mixture is too low in sugar to freeze, correct the sugar balance rather than repeatedly lowering the temperature."
+      }
+    ],
+    "source": "Ninja_Creami_Slushi_Healthy_Recipes.pdf · 29 August 2026",
+    "notes": "FS301ANZ recipe from your original sheet. Use the programme names available on your machine.",
+    "timer": 300
   }
 ]

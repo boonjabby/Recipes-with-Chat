@@ -1,15 +1,21 @@
 # Recipes with Chat
 
-An installable, offline-friendly recipe collection adapted from the Home Kitchen PWA.
+An installable recipe app with 34 shared recipes, ingredient search, offline cooking pages, checklists, timers and screen wake lock.
 
-## Install
+Main app: https://recipes-with-chat-jimmy.boonjabby.chatgpt.site/
 
-Open the GitHub Pages site in Chrome on Android, then choose **Install app** or **Add to Home screen** from the menu. Load once online before using offline. Cooking progress is saved on each device.
+## Personal recipe imports
 
-## GitHub Pages
+Choose **Import recipe**, copy the ChatGPT prompt, and request your recipe in the shown JSON format. Import the resulting `.json` or `.txt` file, or paste the JSON directly. Preview before adding. Imports are stored in IndexedDB in the current browser/device and are not uploaded. **My recipes** filters the local collection. Back up your recipes to JSON before clearing browser data or moving devices. Existing titles are skipped; give variations distinct titles.
 
-In repository Settings → Pages, select **Deploy from a branch**, branch **main**, folder **/(root)**, then Save.
+## Recipe provenance
 
-## Add recipes
+Shared recipes were recovered from prior cooking chats and the Ninja recipe PDF. Notes identify reconstructed methods or missing original measurements. Original Fallow quantities remain explicitly labelled as reconstructed estimates.
 
-Add the recipe HTML, update `recipes.json`, and add the new page to `FILES` in `sw.js`. Bump the cache version when publishing updates.
+## Hosting
+
+GitHub Pages: deploy from `main`, `/(root)`. Keep this repository's manifest ID and scope at `/Recipes-with-Chat/` to avoid app identity collisions. The separate main app has its own origin and ID.
+
+## Add shared recipes
+
+Update `recipes.json` using ingredient groups and method steps. Shared recipe pages use `recipe.html?id=...`; new recipes do not need individual HTML files. Bump the cache version in `sw.js` when changing offline assets.
